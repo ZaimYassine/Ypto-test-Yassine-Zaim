@@ -1,0 +1,1452 @@
+﻿Mois;Type de train;Instant;Instant;Instant;Ponctualité;Nombre de trains;Nombre de train avec moins de 6 min. de retard;Minutes de retard
+2018-08;L;Daluren;Heures creuses;Off-peak hours;91.01948936674368;16881;15365;30206.0
+2018-08;P;Daluren;Heures creuses;Off-peak hours;88.18807339449542;872;769;1828.0
+2018-09;IC;Daluren;Heures creuses;Off-peak hours;82.85384075618111;24227;20073;75986.0
+2018-09;L;Daluren;Heures creuses;Off-peak hours;84.46726572528883;15580;13160;41223.0
+2018-09;S;Weekends;Weekends;Weekends;89.63545389563974;4197;3762;8977.0
+2018-10;IC;Daluren;Heures creuses;Off-peak hours;83.74632507349853;28572;23928;85148.0
+2018-10;L;Avondspits;Pointe du soir;Evening peak hour;82.36724766923389;4934;4064;14957.0
+2018-10;P;Weekends;Weekends;Weekends;82.8125;64;53;209.0
+2018-10;P;Daluren;Heures creuses;Off-peak hours;83.21727019498607;1436;1195;4425.0
+2018-10;S;Ochtendspits;Pointe du matin;Morning peak hour;80.57057057057057;3330;2683;10746.0
+2018-10;S;Avondspits;Pointe du soir;Evening peak hour;81.73961527739057;3587;2932;11636.0
+2018-10;S;Weekends;Weekends;Weekends;92.09985315712188;3405;3136;6153.0
+2018-11;IC;Ochtendspits;Pointe du matin;Morning peak hour;75.10845986984816;5532;4155;23454.0
+2018-11;IC;Weekends;Weekends;Weekends;83.81220657276995;10650;8926;31827.0
+2018-11;L;Avondspits;Pointe du soir;Evening peak hour;83.22207387627948;4494;3740;12847.0
+2018-11;L;Daluren;Heures creuses;Off-peak hours;87.6787546008568;16573;14531;36533.0
+2018-11;P;Avondspits;Pointe du soir;Evening peak hour;80.27305656171636;3589;2881;12318.0
+2018-11;S;Ochtendspits;Pointe du matin;Morning peak hour;76.24254473161034;3018;2301;11242.0
+2018-12;IC;Ochtendspits;Pointe du matin;Morning peak hour;83.32712369597616;5368;4473;15857.0
+2018-12;IC;Weekends;Weekends;Weekends;92.42216282597703;13843;12794;21657.0
+2018-12;L;Ochtendspits;Pointe du matin;Morning peak hour;86.0738255033557;6556;5643;16758.0
+2018-12;L;Avondspits;Pointe du soir;Evening peak hour;87.60330578512396;7260;6360;16784.0
+2018-12;L;Weekends;Weekends;Weekends;94.63429256594725;13344;12628;16741.0
+2018-12;P;Ochtendspits;Pointe du matin;Morning peak hour;86.10666666666667;3750;3229;9982.0
+2018-12;P;Avondspits;Pointe du soir;Evening peak hour;84.59672528805336;3298;2790;9123.0
+2018-12;P;Weekends;Weekends;Weekends;91.48936170212765;47;43;210.0
+2018-12;P;Daluren;Heures creuses;Off-peak hours;87.61904761904762;1155;1012;2813.0
+2019-01;IC;Ochtendspits;Pointe du matin;Morning peak hour;83.03372710152371;5841;4850;17336.0
+2019-01;P;Avondspits;Pointe du soir;Evening peak hour;85.94622019279554;3942;3388;10262.0
+2019-02;IC;Ochtendspits;Pointe du matin;Morning peak hour;86.38862559241706;5275;4557;13477.0
+2019-02;IC;Weekends;Weekends;Weekends;91.32648066568771;10215;9329;16805.0
+2019-02;IC;Daluren;Heures creuses;Off-peak hours;89.88749734663554;23555;21173;48222.0
+2019-02;L;Weekends;Weekends;Weekends;95.19367268302575;9862;9388;11160.0
+2019-02;P;Avondspits;Pointe du soir;Evening peak hour;87.02290076335878;3680;3204;9040.0
+2019-02;P;Daluren;Heures creuses;Off-peak hours;89.28571428571429;1220;1090;2555.0
+2019-03;IC;Ochtendspits;Pointe du matin;Morning peak hour;89.5877754;5628;5042;11942.0
+2019-03;L;Ochtendspits;Pointe du matin;Morning peak hour;91.2298387;6944;6335;13216.0
+2019-03;L;Daluren;Heures creuses;Off-peak hours;92.3525832;27931;25795;44000.0
+2019-03;P;Ochtendspits;Pointe du matin;Morning peak hour;91.43167030000001;4610;4215;8891.0
+2019-03;P;Avondspits;Pointe du soir;Evening peak hour;88.7565153;4029;3576;8965.0
+2019-04;IC;Avondspits;Pointe du soir;Evening peak hour;86.1565894;6169;5315;17020.0
+2019-04;L;Ochtendspits;Pointe du matin;Morning peak hour;91.7613228;6955;6382;11768.0
+2019-04;L;Daluren;Heures creuses;Off-peak hours;91.9194107;27696;25458;46146.0
+2019-04;P;Ochtendspits;Pointe du matin;Morning peak hour;91.8091561;3626;3329;6790.0
+2019-04;P;Avondspits;Pointe du soir;Evening peak hour;87.1619521;3217;2804;8262.0
+2019-05;IC;Ochtendspits;Pointe du matin;Morning peak hour;87.30302479999999;5521;4820;15167.0
+2019-05;IC;Avondspits;Pointe du soir;Evening peak hour;80.9314444;6141;4970;22326.0
+2019-05;IC;Weekends;Weekends;Weekends;92.7650204;12716;11796;19723.0
+2019-05;IC;Daluren;Heures creuses;Off-peak hours;87.561753;25100;21978;64056.0
+2019-05;ICT;Daluren;Heures creuses;Off-peak hours;100.0;12;12;4.0
+2019-05;L;Weekends;Weekends;Weekends;94.5755109;12038;11385;15257.0
+2019-05;L;Daluren;Heures creuses;Off-peak hours;90.6150044;27512;24930;52128.0
+2019-05;P;Ochtendspits;Pointe du matin;Morning peak hour;92.1839601;4414;4069;7979.0
+2019-05;P;Avondspits;Pointe du soir;Evening peak hour;84.94178529999999;3865;3283;11416.0
+2019-06;IC;Avondspits;Pointe du soir;Evening peak hour;80.8873114;5635;4558;19403.0
+2019-06;ICT;Weekends;Weekends;Weekends;82.2299652;287;236;948.0
+2019-06;ICT;Daluren;Heures creuses;Off-peak hours;70.2702703;37;26;157.0
+2019-06;L;Ochtendspits;Pointe du matin;Morning peak hour;91.29739239999999;6251;5707;11416.0
+2019-06;P;Avondspits;Pointe du soir;Evening peak hour;85.2467957;3667;3126;9849.0
+2019-07;IC;Avondspits;Pointe du soir;Evening peak hour;84.4955377;6611;5586;22973.0
+2019-07;IC;Daluren;Heures creuses;Off-peak hours;90.3388529;27357;24714;59305.0
+2019-07;ICT;Daluren;Heures creuses;Off-peak hours;88.2933709;709;626;2107.0
+2019-08;IC;Ochtendspits;Pointe du matin;Morning peak hour;94.41893323913811;5662;5346;7562.0
+2019-08;IC;Avondspits;Pointe du soir;Evening peak hour;89.69977642925583;6262;5617;13104.0
+2019-08;ICT;Avondspits;Pointe du soir;Evening peak hour;94.39999999999999;250;236;254.0
+2019-08;L;Avondspits;Pointe du soir;Evening peak hour;93.56818788364023;7494;7012;11119.0
+2019-08;L;Daluren;Heures creuses;Off-peak hours;94.8246223620204;27341;25926;33895.0
+2019-08;P;Daluren;Heures creuses;Off-peak hours;95.34313725490196;1632;1556;2169.0
+2019-09;ICT;Daluren;Heures creuses;Off-peak hours;100.0;3;3;10.0
+2019-09;L;Ochtendspits;Pointe du matin;Morning peak hour;90.14003175978057;6927;6244;14191.0
+2019-09;P;Weekends;Weekends;Weekends;72.88135593220339;59;43;283.0
+2019-10;IC;Ochtendspits;Pointe du matin;Morning peak hour;84.82747500806191;6202;5261;17512.0
+2019-10;L;Ochtendspits;Pointe du matin;Morning peak hour;87.40603982592641;7583;6628;18806.0
+2019-10;L;Weekends;Weekends;Weekends;92.8497085761865;9608;8921;15136.0
+2019-11;IC;Weekends;Weekends;Weekends;90.5281719707784;11909;10781;22615.0
+2019-11;IC;Daluren;Heures creuses;Off-peak hours;86.46274852523487;22885;19787;58294.0
+2019-11;ICT;Weekends;Weekends;Weekends;89.65517241379311;58;52;106.0
+2019-11;P;Ochtendspits;Pointe du matin;Morning peak hour;83.16125860373647;4068;3383;12833.0
+2019-12;IC;Ochtendspits;Pointe du matin;Morning peak hour;84.82540861812778;5384;4567;14764.0
+2019-12;IC;Weekends;Weekends;Weekends;95.5400192864031;12444;11889;13647.0
+2019-12;L;Weekends;Weekends;Weekends;96.4244426094137;12110;11677;12124.0
+2019-12;P;Ochtendspits;Pointe du matin;Morning peak hour;87.84370477568741;3455;3035;8297.0
+2019-12;P;Weekends;Weekends;Weekends;88.88888888888889;63;56;192.0
+2020-01;IC;Ochtendspits;Pointe du matin;Morning peak hour;88.9002557544757;5865;5214;13420.0
+2020-01;P;Ochtendspits;Pointe du matin;Morning peak hour;91.02849510240428;4492;4089;8630.0
+2020-01;P;Avondspits;Pointe du soir;Evening peak hour;88.51284584980237;4048;3583;8940.0
+2020-02;IC;Ochtendspits;Pointe du matin;Morning peak hour;85.65512048192771;5312;4550;15887.0
+2020-02;IC;Avondspits;Pointe du soir;Evening peak hour;85.18642367497074;5981;5095;16927.0
+2020-02;IC;Weekends;Weekends;Weekends;89.60661397292633;11007;9863;27162.0
+2020-02;IC;Daluren;Heures creuses;Off-peak hours;89.67565098218364;24079;21593;50454.0
+2020-02;L;Ochtendspits;Pointe du matin;Morning peak hour;88.43000303674461;6586;5824;14354.0
+2020-02;L;Avondspits;Pointe du soir;Evening peak hour;89.23779222575736;7229;6451;15331.0
+2020-02;L;Weekends;Weekends;Weekends;93.21131758334111;10709;9982;15814.0
+2020-03;IC;Ochtendspits;Pointe du matin;Morning peak hour;91.02828244989698;5339;4860;10098.0
+2020-03;L;Weekends;Weekends;Weekends;96.94908472541762;9997;9692;8686.0
+2020-03;L;Daluren;Heures creuses;Off-peak hours;93.32166936929248;23434;21869;32959.0
+2020-04;IC;Avondspits;Pointe du soir;Evening peak hour;95.44230370830743;4827;4607;4842.0
+2020-04;L;Ochtendspits;Pointe du matin;Morning peak hour;97.45031871016123;5334;5198;4108.0
+2020-04;P;Ochtendspits;Pointe du matin;Morning peak hour;97.6878612716763;519;507;366.0
+2020-04;P;Avondspits;Pointe du soir;Evening peak hour;94.94736842105263;475;451;491.0
+2020-04;P;Daluren;Heures creuses;Off-peak hours;96.26865671641791;268;258;328.0
+2020-05;IC;Ochtendspits;Pointe du matin;Morning peak hour;95.7913455838767;5061;4848;5205.0
+2020-05;IC;Weekends;Weekends;Weekends;96.4359985657942;13945;13448;12233.0
+2020-05;L;Avondspits;Pointe du soir;Evening peak hour;94.52441014987387;6739;6370;8476.0
+2020-05;P;Ochtendspits;Pointe du matin;Morning peak hour;96.54731457800511;3128;3020;2926.0
+2020-05;P;Avondspits;Pointe du soir;Evening peak hour;94.99105545617174;2795;2655;3366.0
+2020-05;P;Daluren;Heures creuses;Off-peak hours;95.58823529411765;884;845;1045.0
+2020-06;IC;Daluren;Heures creuses;Off-peak hours;92.47489663319551;25395;23484;39695.0
+2020-06;L;Ochtendspits;Pointe du matin;Morning peak hour;95.54755043227667;6940;6631;7671.0
+2020-06;P;Avondspits;Pointe du soir;Evening peak hour;94.09630606860159;3032;2853;3924.0
+2020-06;P;Daluren;Heures creuses;Off-peak hours;95.71577847439916;957;916;1120.0
+2020-07;IC;Ochtendspits;Pointe du matin;Morning peak hour;96.89545225709011;5959;5774;5009.0
+2020-07;IC;Avondspits;Pointe du soir;Evening peak hour;92.83965728274174;6536;6068;10517.0
+2020-07;IC;Daluren;Heures creuses;Off-peak hours;94.79205835902835;26594;25209;33852.0
+2020-07;ICT;Avondspits;Pointe du soir;Evening peak hour;93.56060606060606;264;247;300.0
+2020-07;ICT;Weekends;Weekends;Weekends;95.52238805970148;536;512;552.0
+2020-07;L;Ochtendspits;Pointe du matin;Morning peak hour;97.13653340711025;7229;7022;5986.0
+2020-07;L;Avondspits;Pointe du soir;Evening peak hour;95.18420721740225;7953;7570;9853.0
+2020-07;P;Ochtendspits;Pointe du matin;Morning peak hour;97.08624708624708;1716;1666;1246.0
+2020-07;P;Weekends;Weekends;Weekends;100.0;4;4;0.0
+2020-08;IC;Daluren;Heures creuses;Off-peak hours;92.93932230102443;25380;23588;38684.0
+2020-08;ICT;Avondspits;Pointe du soir;Evening peak hour;97.05882352941177;238;231;168.0
+2020-08;ICT;Daluren;Heures creuses;Off-peak hours;91.73693086003372;593;544;1212.0
+2020-08;L;Ochtendspits;Pointe du matin;Morning peak hour;96.27920392269974;6934;6676;6865.0
+2020-08;L;Avondspits;Pointe du soir;Evening peak hour;94.40021231422506;7536;7114;10070.0
+2020-08;L;Weekends;Weekends;Weekends;96.34075668515607;12079;11637;11153.0
+2020-08;L;Daluren;Heures creuses;Off-peak hours;95.38958212420198;27568;26297;31246.0
+2020-08;P;Ochtendspits;Pointe du matin;Morning peak hour;95.38372763993075;1733;1653;1911.0
+2020-09;IC;Daluren;Heures creuses;Off-peak hours;91.8472730013946;26531;24368;45735.0
+2020-09;L;Avondspits;Pointe du soir;Evening peak hour;90.81175298804781;8032;7294;15894.0
+2020-09;L;Weekends;Weekends;Weekends;96.41009724808607;9666;9319;8755.0
+2020-09;P;Ochtendspits;Pointe du matin;Morning peak hour;92.92815183009489;4426;4113;7152.0
+2020-10;IC;Ochtendspits;Pointe du matin;Morning peak hour;89.43075615972812;5885;5263;12536.0
+2020-10;IC;Weekends;Weekends;Weekends;91.02377927028499;11018;10029;20369.0
+2020-10;ICT;Weekends;Weekends;Weekends;87.8048780487805;82;72;191.0
+2020-10;L;Avondspits;Pointe du soir;Evening peak hour;90.95285114786472;8102;7369;15345.0
+2020-10;L;Weekends;Weekends;Weekends;94.98756104302957;10853;10309;13480.0
+2020-10;L;Daluren;Heures creuses;Off-peak hours;93.31101416928747;29571;27593;44015.0
+2020-10;P;Weekends;Weekends;Weekends;62.71186440677966;59;37;387.0
+2020-11;IC;Daluren;Heures creuses;Off-peak hours;92.29083245521602;23725;21896;38694.0
+2020-11;ICT;Weekends;Weekends;Weekends;100.0;1;1;0.0
+2020-12;IC;Weekends;Weekends;Weekends;96.01780096677665;13033;12514;12465.0
+2020-12;L;Avondspits;Pointe du soir;Evening peak hour;94.88935721812433;7592;7204;9944.0
+2020-12;P;Ochtendspits;Pointe du matin;Morning peak hour;94.16840226123178;3361;3165;5004.0
+2021-01;IC;Avondspits;Pointe du soir;Evening peak hour;89.5213028458628;6079;5442;12828.0
+2021-01;L;Weekends;Weekends;Weekends;96.91909012381227;13892;13464;11834.0
+2021-01;L;Daluren;Heures creuses;Off-peak hours;95.44589948057649;27338;26093;29912.0
+2021-01;P;Ochtendspits;Pointe du matin;Morning peak hour;92.24092582851131;3802;3507;6660.0
+2021-01;P;Avondspits;Pointe du soir;Evening peak hour;92.17545939537641;3374;3110;5978.0
+2021-01;P;Daluren;Heures creuses;Off-peak hours;92.57641921397381;1145;1060;1784.0
+2021-02;IC;Ochtendspits;Pointe du matin;Morning peak hour;86.85735651523649;5349;4646;14088.0
+2021-02;IC;Avondspits;Pointe du soir;Evening peak hour;86.63671159926777;6009;5206;15354.0
+2021-02;L;Weekends;Weekends;Weekends;95.87706958121416;9241;8860;9597.0
+2021-02;L;Daluren;Heures creuses;Off-peak hours;92.58511791306948;26757;24773;43779.0
+2021-02;P;Avondspits;Pointe du soir;Evening peak hour;89.36959208899876;3236;2892;6604.0
+2021-02;P;Daluren;Heures creuses;Off-peak hours;90.07971656333038;1129;1017;2236.0
+2021-03;IC;Ochtendspits;Pointe du matin;Morning peak hour;92.932063901888;6197;5759;9719.0
+2021-03;P;Daluren;Heures creuses;Off-peak hours;91.39280125195619;1278;1168;2138.0
+2021-04;IC;Ochtendspits;Pointe du matin;Morning peak hour;91.71768095066619;5554;5094;10031.0
+2021-04;IC;Weekends;Weekends;Weekends;94.37293122471497;10876;10264;14370.0
+2021-04;IC;Daluren;Heures creuses;Off-peak hours;92.52875850813996;25123;23246;39424.0
+2021-04;L;Weekends;Weekends;Weekends;96.65673936016908;10409;10061;8868.0
+2021-04;P;Weekends;Weekends;Weekends;56.25;32;18;223.0
+2021-04;P;Daluren;Heures creuses;Off-peak hours;93.22381930184805;974;908;1266.0
+2021-05;IC;Ochtendspits;Pointe du matin;Morning peak hour;93.51745301112389;5214;4876;7370.0
+2021-05;IC;Avondspits;Pointe du soir;Evening peak hour;89.93775933609959;5784;5202;12315.0
+2021-05;IC;Daluren;Heures creuses;Off-peak hours;92.85499721065958;23303;21638;35529.0
+2021-05;ICT;Weekends;Weekends;Weekends;96.47058823529412;170;164;166.0
+2021-05;P;Daluren;Heures creuses;Off-peak hours;92.24452554744525;1096;1011;1733.0
+2021-06;ICT;Avondspits;Pointe du soir;Evening peak hour;94.44444444444444;18;17;21.0
+2021-06;L;Ochtendspits;Pointe du matin;Morning peak hour;95.64983888292159;7448;7124;9064.0
+2021-06;L;Avondspits;Pointe du soir;Evening peak hour;90.18541409147095;8090;7296;16610.0
+2021-07;IC;Avondspits;Pointe du soir;Evening peak hour;90.52938319572607;6177;5592;11591.0
+2021-07;IC;Daluren;Heures creuses;Off-peak hours;92.7217949734401;25226;23390;40359.0
+2021-07;L;Ochtendspits;Pointe du matin;Morning peak hour;96.5093921017601;6761;6525;6836.0
+2021-07;L;Avondspits;Pointe du soir;Evening peak hour;94.11844978165938;7328;6897;10162.0
+2021-07;P;Daluren;Heures creuses;Off-peak hours;92.18967921896792;717;661;1205.0
+2021-08;IC;Ochtendspits;Pointe du matin;Morning peak hour;94.88215488215488;5940;5636;7292.0
+2021-08;IC;Avondspits;Pointe du soir;Evening peak hour;91.25284738041002;6585;6009;11727.0
+2021-08;IC;Daluren;Heures creuses;Off-peak hours;93.16509328774251;26906;25067;39621.0
+2021-08;ICT;Daluren;Heures creuses;Off-peak hours;90.625;416;377;949.0
+2021-08;P;Avondspits;Pointe du soir;Evening peak hour;93.0379746835443;2054;1911;3005.0
+2021-09;IC;Avondspits;Pointe du soir;Evening peak hour;83.75037684654808;6634;5556;20162.0
+2021-09;L;Ochtendspits;Pointe du matin;Morning peak hour;90.97846824747887;7338;6676;13795.0
+2021-10;IC;Ochtendspits;Pointe du matin;Morning peak hour;83.76023697508276;5739;4807;16135.0
+2021-10;IC;Weekends;Weekends;Weekends;92.22167406676533;12162;11216;18808.0
+2021-10;IC;Daluren;Heures creuses;Off-peak hours;88.97659227000544;25718;22883;56835.0
+2021-10;ICT;Weekends;Weekends;Weekends;85.3146853146853;143;122;327.0
+2021-10;L;Weekends;Weekends;Weekends;93.55429713524317;12008;11234;16990.0
+2021-10;P;Avondspits;Pointe du soir;Evening peak hour;87.51848565513161;3381;2959;8363.0
+2021-11;IC;Weekends;Weekends;Weekends;94.07273622855267;12181;11459;15600.0
+2021-11;IC;Daluren;Heures creuses;Off-peak hours;89.59724584180182;24109;21601;49937.0
+2021-11;ICT;Daluren;Heures creuses;Off-peak hours;100.0;13;13;3.0
+2021-11;L;Ochtendspits;Pointe du matin;Morning peak hour;89.60980714606069;6689;5994;14660.0
+2021-11;L;Daluren;Heures creuses;Off-peak hours;92.15614067390904;27155;25025;45278.0
+2021-11;P;Ochtendspits;Pointe du matin;Morning peak hour;88.70281765018608;3762;3337;8743.0
+2021-11;P;Daluren;Heures creuses;Off-peak hours;87.9539415411869;1129;993;2673.0
+2021-12;IC;Daluren;Heures creuses;Off-peak hours;91.38129496402878;27800;25404;49412.0
+2021-12;L;Weekends;Weekends;Weekends;96.61691542288557;10050;9710;9279.0
+2021-12;L;Daluren;Heures creuses;Off-peak hours;93.75563861322335;31036;29098;43213.0
+2021-12;P;Ochtendspits;Pointe du matin;Morning peak hour;91.67130919220055;3590;3291;6710.0
+2022-01;IC;Avondspits;Pointe du soir;Evening peak hour;89.26312460468057;6324;5645;14605.0
+2022-01;IC;Daluren;Heures creuses;Off-peak hours;92.52416588712192;25656;23738;40649.0
+2022-01;INT;Daluren;Heures creuses;Off-peak hours;69.23076923076923;26;18;205.0
+2022-01;L;Ochtendspits;Pointe du matin;Morning peak hour;92.10968102965865;7148;6584;12430.0
+2022-01;L;Weekends;Weekends;Weekends;96.92245881880274;12445;12062;11530.0
+2022-01;L;Daluren;Heures creuses;Off-peak hours;94.8784812767289;28761;27288;35385.0
+2022-01;P;Daluren;Heures creuses;Off-peak hours;91.41274238227147;1083;990;1681.0
+2022-02;IC;Daluren;Heures creuses;Off-peak hours;90.02246429025558;23593;21239;50081.0
+2022-02;L;Ochtendspits;Pointe du matin;Morning peak hour;92.40079669066952;6527;6031;10707.0
+2022-02;L;Daluren;Heures creuses;Off-peak hours;93.04050642743408;25749;23957;41507.0
+2022-02;P;Avondspits;Pointe du soir;Evening peak hour;90.00340020401224;2941;2647;6356.0
+2022-02;P;Daluren;Heures creuses;Off-peak hours;90.4225352112676;1065;963;2193.0
+2022-03;IC;Daluren;Heures creuses;Off-peak hours;87.52720150877703;27572;24133;70762.0
+2022-03;L;Avondspits;Pointe du soir;Evening peak hour;87.85481619357842;8596;7552;20545.0
+2022-03;L;Daluren;Heures creuses;Off-peak hours;91.16710289804799;31711;28910;60639.0
+2022-03;P;Avondspits;Pointe du soir;Evening peak hour;86.94187026116259;3561;3096;8623.0
+2022-04;IC;Ochtendspits;Pointe du matin;Morning peak hour;89.33030646992054;5286;4722;10764.0
+2022-04;ICT;Avondspits;Pointe du soir;Evening peak hour;100.0;20;20;10.0
+2022-04;INT;Weekends;Weekends;Weekends;50.0;2;1;17.0
+2022-04;L;Ochtendspits;Pointe du matin;Morning peak hour;92.59203379601689;6628;6137;10765.0
+2022-04;L;Avondspits;Pointe du soir;Evening peak hour;87.68459180830315;7178;6294;17227.0
+2022-04;L;Daluren;Heures creuses;Off-peak hours;91.96755329183173;26505;24376;45850.0
+2022-04;P;Avondspits;Pointe du soir;Evening peak hour;88.32913518052057;2382;2104;5663.0
+2022-05;IC;Avondspits;Pointe du soir;Evening peak hour;79.79966611018364;5990;4780;23085.0
+2022-05;IC;Daluren;Heures creuses;Off-peak hours;86.8455876271607;24182;21001;63461.0
+2022-05;ICT;Daluren;Heures creuses;Off-peak hours;83.33333333333334;6;5;11.0
+2022-05;L;Ochtendspits;Pointe du matin;Morning peak hour;92.8388746803069;7038;6534;12326.0
+2022-05;P;Ochtendspits;Pointe du matin;Morning peak hour;93.44039194338596;3674;3433;6434.0
+2022-05;P;Daluren;Heures creuses;Off-peak hours;90.2654867256637;1130;1020;2440.0
+2022-06;IC;Ochtendspits;Pointe du matin;Morning peak hour;90.20444444444445;5625;5074;10961.0
+2022-06;IC;Avondspits;Pointe du soir;Evening peak hour;78.239608801956;6135;4800;24477.0
+2022-06;IC;Daluren;Heures creuses;Off-peak hours;85.20001585854182;25223;21490;72899.0
+2022-06;ICT;Weekends;Weekends;Weekends;85.21739130434783;115;98;270.0
+2022-06;ICT;Daluren;Heures creuses;Off-peak hours;88.88888888888889;9;8;33.0
+2022-06;INT;Daluren;Heures creuses;Off-peak hours;63.1578947368421;19;12;429.0
+2022-06;L;Ochtendspits;Pointe du matin;Morning peak hour;92.77141674713754;7249;6725;11827.0
+2022-06;L;Avondspits;Pointe du soir;Evening peak hour;83.69606239778588;7949;6653;24208.0
+2022-06;P;Ochtendspits;Pointe du matin;Morning peak hour;92.65670076055599;3813;3533;6404.0
+2022-07;IC;Ochtendspits;Pointe du matin;Morning peak hour;93.40926064227035;5356;5003;7777.0
+2022-07;IC;Weekends;Weekends;Weekends;93.39734121122599;13540;12646;19153.0
+2022-07;INT;Daluren;Heures creuses;Off-peak hours;69.23076923076923;26;18;611.0
+2022-07;P;Weekends;Weekends;Weekends;60.0;5;3;16.0
+2022-08;IC;Weekends;Weekends;Weekends;93.82660821329516;11177;10487;15113.0
+2022-08;ICT;Avondspits;Pointe du soir;Evening peak hour;98.78048780487805;82;81;60.0
+2022-08;INT;Weekends;Weekends;Weekends;0.0;1;0;19.0
+2022-08;L;Ochtendspits;Pointe du matin;Morning peak hour;94.0967477452856;7318;6886;10328.0
+2022-08;L;Avondspits;Pointe du soir;Evening peak hour;90.81746920492722;8037;7299;15370.0
+2022-08;L;Daluren;Heures creuses;Off-peak hours;93.01529176414742;29493;27433;47044.0
+2022-09;IC;Daluren;Heures creuses;Off-peak hours;87.37135748482679;26527;23177;67236.0
+2022-09;ICT;Avondspits;Pointe du soir;Evening peak hour;100.0;6;6;7.0
+2022-09;ICT;Weekends;Weekends;Weekends;96.06299212598425;127;122;102.0
+2022-09;L;Weekends;Weekends;Weekends;94.56364761708274;9694;9167;12626.0
+2022-09;L;Daluren;Heures creuses;Off-peak hours;89.90319017607693;30782;27674;62891.0
+2022-09;P;Daluren;Heures creuses;Off-peak hours;87.74468085106383;1175;1031;2639.0
+2022-10;IC;Avondspits;Pointe du soir;Evening peak hour;75.86264100862641;6028;4573;25629.0
+2022-10;IC;Daluren;Heures creuses;Off-peak hours;83.04945954798559;24424;20284;79831.0
+2022-10;ICT;Avondspits;Pointe du soir;Evening peak hour;100.0;11;11;10.0
+2022-10;L;Avondspits;Pointe du soir;Evening peak hour;79.20290795793846;7703;6101;26963.0
+2022-10;L;Daluren;Heures creuses;Off-peak hours;86.10430645791173;28167;24253;72929.0
+2022-10;P;Daluren;Heures creuses;Off-peak hours;85.7419980601358;1031;884;2707.0
+2022-11;IC;Weekends;Weekends;Weekends;90.96224523889074;11972;10890;22109.0
+2022-11;IC;Daluren;Heures creuses;Off-peak hours;83.61350343112422;21713;18155;67243.0
+2022-11;INT;Weekends;Weekends;Weekends;50.0;2;1;29.0
+2022-11;P;Daluren;Heures creuses;Off-peak hours;85.05096262740656;883;751;2381.0
+2022-12;INT;Daluren;Heures creuses;Off-peak hours;53.84615384615385;26;14;848.0
+2022-12;L;Ochtendspits;Pointe du matin;Morning peak hour;84.23028785982478;7191;6057;20907.0
+2022-12;L;Avondspits;Pointe du soir;Evening peak hour;79.58181131124826;7939;6318;28453.0
+2022-12;L;Weekends;Weekends;Weekends;93.81988385195457;11537;10824;16435.0
+2022-12;P;Avondspits;Pointe du soir;Evening peak hour;80.14035087719297;2850;2284;9905.0
+2022-12;P;Daluren;Heures creuses;Off-peak hours;82.4773413897281;993;819;3357.0
+2023-01;IC;Ochtendspits;Pointe du matin;Morning peak hour;86.90983466848475;5867;5099;14440.0
+2023-01;IC;Weekends;Weekends;Weekends;93.71423380870198;11009;10317;15462.0
+2023-01;IC;Daluren;Heures creuses;Off-peak hours;87.52779767064943;26531;23222;64179.0
+2023-01;INT;Daluren;Heures creuses;Off-peak hours;53.84615384615385;26;14;509.0
+2023-01;L;Avondspits;Pointe du soir;Evening peak hour;85.21372667068032;8305;7077;22925.0
+2023-01;L;Weekends;Weekends;Weekends;95.48898371505705;11483;10965;13562.0
+2023-01;P;Ochtendspits;Pointe du matin;Morning peak hour;87.72136953955135;3388;2972;8485.0
+2023-02;IC;Avondspits;Pointe du soir;Evening peak hour;75.29473869435157;5683;4279;25578.0
+2023-02;IC;Daluren;Heures creuses;Off-peak hours;81.85680900786063;23535;19265;79654.0
+2023-02;L;Ochtendspits;Pointe du matin;Morning peak hour;87.4633431085044;6820;5965;16018.0
+2023-02;L;Avondspits;Pointe du soir;Evening peak hour;81.66576527852894;7396;6040;25041.0
+2023-02;P;Ochtendspits;Pointe du matin;Morning peak hour;87.46347165400351;3422;2993;8596.0
+2023-02;P;Avondspits;Pointe du soir;Evening peak hour;83.27621658670323;2918;2430;9015.0
+2023-03;IC;Avondspits;Pointe du soir;Evening peak hour;79.67922529883492;6609;5266;23519.0
+2023-03;IC;Daluren;Heures creuses;Off-peak hours;85.42935046502073;26773;22872;75624.0
+2023-03;INT;Daluren;Heures creuses;Off-peak hours;45.83333333333333;24;11;1004.0
+2023-03;L;Avondspits;Pointe du soir;Evening peak hour;84.96482651722904;8387;7126;22349.0
+2023-03;L;Weekends;Weekends;Weekends;94.85486744210417;9543;9052;12154.0
+2023-04;IC;Ochtendspits;Pointe du matin;Morning peak hour;87.08470847084709;4545;3958;12247.0
+2023-04;IC;Avondspits;Pointe du soir;Evening peak hour;80.46247305506566;5103;4106;18005.0
+2023-04;INT;Daluren;Heures creuses;Off-peak hours;38.88888888888889;18;7;633.0
+2023-04;P;Avondspits;Pointe du soir;Evening peak hour;84.33008808530367;2157;1819;5838.0
+2023-05;L;Ochtendspits;Pointe du matin;Morning peak hour;90.80854879689134;6691;6076;12274.0
+2023-05;L;Weekends;Weekends;Weekends;92.60996119016818;12368;11454;19526.0
+2023-06;IC;Ochtendspits;Pointe du matin;Morning peak hour;88.31355627472132;5562;4912;12670.0
+2023-06;IC;Avondspits;Pointe du soir;Evening peak hour;75.86037364798428;6102;4629;25764.0
+2023-06;IC;Weekends;Weekends;Weekends;88.39698811575796;11023;9744;24500.0
+2023-06;INT;Daluren;Heures creuses;Off-peak hours;64.28571428571429;42;27;586.0
+2023-06;L;Ochtendspits;Pointe du matin;Morning peak hour;90.0979020979021;7150;6442;14141.0
+2023-06;L;Daluren;Heures creuses;Off-peak hours;88.48091898939356;28379;25110;62907.0
+2023-06;P;Ochtendspits;Pointe du matin;Morning peak hour;90.99319727891157;3675;3344;7197.0
+2023-06;P;Weekends;Weekends;Weekends;84.28571428571429;420;354;1222.0
+2023-07;IC;Avondspits;Pointe du soir;Evening peak hour;84.1401489505755;5908;4971;17833.0
+2023-07;INT;Weekends;Weekends;Weekends;66.66666666666666;3;2;49.0
+2023-07;L;Ochtendspits;Pointe du matin;Morning peak hour;94.27393495190105;6549;6174;8852.0
+2023-07;L;Avondspits;Pointe du soir;Evening peak hour;88.93892485223755;7106;6320;15124.0
+2023-07;P;Avondspits;Pointe du soir;Evening peak hour;86.99878493317132;1646;1432;4001.0
+2023-08;IC;Ochtendspits;Pointe du matin;Morning peak hour;91.87061441040562;5843;5368;10214.0
+2023-08;IC;Avondspits;Pointe du soir;Evening peak hour;86.05080831408776;6495;5589;17654.0
+2023-08;IC;Daluren;Heures creuses;Off-peak hours;89.39142878662348;26554;23737;58022.0
+2023-08;INT;Daluren;Heures creuses;Off-peak hours;59.183673469387756;49;29;704.0
+2023-08;L;Ochtendspits;Pointe du matin;Morning peak hour;93.94646533973919;7285;6844;10325.0
+2023-08;P;Ochtendspits;Pointe du matin;Morning peak hour;94.07894736842105;2128;2002;3051.0
+2023-09;IC;Avondspits;Pointe du soir;Evening peak hour;76.5008852406245;6213;4753;24110.0
+2023-09;L;Avondspits;Pointe du soir;Evening peak hour;82.31502964681619;7758;6386;23178.0
+2023-10;IC;Weekends;Weekends;Weekends;90.60126292669534;10927;9900;21517.0
+2023-10;INT;Daluren;Heures creuses;Off-peak hours;50.0;50;25;1806.0
+2023-10;L;Avondspits;Pointe du soir;Evening peak hour;82.4013764286592;8137;6705;24591.0
+2023-10;P;Ochtendspits;Pointe du matin;Morning peak hour;87.16233599176742;3887;3388;9563.0
+2023-10;P;Avondspits;Pointe du soir;Evening peak hour;81.12014453477869;3321;2694;10482.0
+2023-10;P;Daluren;Heures creuses;Off-peak hours;82.46268656716418;1072;884;3276.0
+2023-11;IC;Avondspits;Pointe du soir;Evening peak hour;67.98143851508121;5603;3809;30547.0
+2023-11;L;Ochtendspits;Pointe du matin;Morning peak hour;81.203007518797;6384;5184;20209.0
+2023-11;L;Avondspits;Pointe du soir;Evening peak hour;76.13014684710625;6946;5288;27947.0
+2023-11;L;Weekends;Weekends;Weekends;92.84871585443325;11019;10231;18047.0
+2023-12;IC;Weekends;Weekends;Weekends;92.70306456411782;13444;12463;21276.0
+2023-12;IC;Daluren;Heures creuses;Off-peak hours;83.34294971372775;22531;18778;70185.0
+2023-12;INT;Daluren;Heures creuses;Off-peak hours;41.93548387096774;31;13;750.0
+2023-12;L;Ochtendspits;Pointe du matin;Morning peak hour;88.11777076761304;6657;5866;15200.0
+2023-12;P;Weekends;Weekends;Weekends;72.3404255319149;47;34;211.0
+2024-01;L;Ochtendspits;Pointe du matin;Morning peak hour;86.86309830159547;7772;6751;20520.0
+2024-01;P;Weekends;Weekends;Weekends;79.36507936507937;63;50;240.0
+2024-01;P;Daluren;Heures creuses;Off-peak hours;83.52668213457076;862;720;2542.0
+2024-02;IC;Avondspits;Pointe du soir;Evening peak hour;77.98602287166455;6296;4910;24038.0
+2024-02;IC;Weekends;Weekends;Weekends;91.74311926605505;9701;8900;17517.0
+2024-02;L;Avondspits;Pointe du soir;Evening peak hour;85.67626421485603;8266;7082;21596.0
+2024-02;L;Weekends;Weekends;Weekends;95.14600287218765;10445;9938;12511.0
+2024-02;P;Avondspits;Pointe du soir;Evening peak hour;83.11457963816956;2819;2343;8813.0
+2024-03;IC;Ochtendspits;Pointe du matin;Morning peak hour;90.11768778123918;5778;5207;11459.0
+2024-03;IC;Avondspits;Pointe du soir;Evening peak hour;81.35324015247777;6296;5122;19956.0
+2024-03;IC;Weekends;Weekends;Weekends;91.90140845070422;11928;10962;21117.0
+2024-03;L;Ochtendspits;Pointe du matin;Morning peak hour;92.67269629047057;7629;7070;12410.0
+2024-03;L;Avondspits;Pointe du soir;Evening peak hour;88.56244710434046;8271;7325;17880.0
+2024-03;P;Avondspits;Pointe du soir;Evening peak hour;85.17737969792765;2847;2425;7777.0
+2024-04;IC;Avondspits;Pointe du soir;Evening peak hour;81.4530612244898;6125;4989;20213.0
+2024-04;L;Avondspits;Pointe du soir;Evening peak hour;87.25465205200102;7846;6846;18506.0
+2024-04;P;Avondspits;Pointe du soir;Evening peak hour;83.58843537414967;2352;1966;6461.0
+2024-05;IC;Avondspits;Pointe du soir;Evening peak hour;79.2900403768506;5944;4713;21292.0
+2024-05;IC;Weekends;Weekends;Weekends;91.73192077383693;13026;11949;22520.0
+2024-05;IC;Daluren;Heures creuses;Off-peak hours;85.03460929030105;23982;20393;67935.0
+2024-05;L;Ochtendspits;Pointe du matin;Morning peak hour;91.85654008438819;7110;6531;12049.0
+2024-05;L;Weekends;Weekends;Weekends;95.03675077669168;13197;12542;16222.0
+2024-05;L;Daluren;Heures creuses;Off-peak hours;89.84041821433485;29076;26122;58531.0
+2024-05;P;Daluren;Heures creuses;Off-peak hours;87.07729468599034;828;721;2266.0
+2016-01;IC;Avondspits;Pointe du soir;Evening peak hour;85.71428571428571;6041;5178;18194.0
+2016-01;L;Avondspits;Pointe du soir;Evening peak hour;90.01284521515736;3114;2803;5880.0
+2016-01;L;Daluren;Heures creuses;Off-peak hours;92.95737819227752;11473;10665;17866.0
+2016-01;P;Ochtendspits;Pointe du matin;Morning peak hour;83.85059049711617;3641;3053;11638.0
+2016-01;S;Weekends;Weekends;Weekends;95.45793000744601;4029;3846;4454.0
+2016-02;IC;Ochtendspits;Pointe du matin;Morning peak hour;85.52380952380952;5775;4939;16881.0
+2016-02;IC;Daluren;Heures creuses;Off-peak hours;89.82865338164251;26496;23801;60870.0
+2016-02;L;Weekends;Weekends;Weekends;96.5861449391096;5009;4838;4545.0
+2016-02;P;Ochtendspits;Pointe du matin;Morning peak hour;86.3802782523798;4097;3539;11389.0
+2016-02;P;Weekends;Weekends;Weekends;88.0;25;22;44.0
+2016-02;P;Daluren;Heures creuses;Off-peak hours;87.68046198267565;1039;911;2450.0
+2016-02;S;Avondspits;Pointe du soir;Evening peak hour;88.28748890860693;3381;2985;7912.0
+2016-02;S;Weekends;Weekends;Weekends;97.56585528509503;2999;2926;2668.0
+2016-03;L;Weekends;Weekends;Weekends;94.43737502272315;5501;5195;6618.0
+2016-03;P;Ochtendspits;Pointe du matin;Morning peak hour;87.71929824561403;3990;3500;9818.0
+2016-03;P;Avondspits;Pointe du soir;Evening peak hour;87.77341559169939;3566;3130;8186.0
+2016-03;P;Weekends;Weekends;Weekends;91.66666666666666;12;11;22.0
+2016-03;P;Daluren;Heures creuses;Off-peak hours;86.05089538171536;1061;913;2785.0
+2016-04;IC;Daluren;Heures creuses;Off-peak hours;89.97456886275134;25166;22643;53995.0
+2016-04;L;Ochtendspits;Pointe du matin;Morning peak hour;92.09215442092155;3212;2958;5610.0
+2016-04;L;Avondspits;Pointe du soir;Evening peak hour;89.70897089708971;3333;2990;6603.0
+2016-04;L;Weekends;Weekends;Weekends;95.56552962298025;5570;5323;6353.0
+2016-04;P;Ochtendspits;Pointe du matin;Morning peak hour;88.37142030662423;3457;3055;8073.0
+2016-04;S;Avondspits;Pointe du soir;Evening peak hour;88.44472204871956;3202;2832;7275.0
+2016-04;S;Weekends;Weekends;Weekends;94.00782896717857;3321;3122;4422.0
+2016-05;IC;Ochtendspits;Pointe du matin;Morning peak hour;87.92998168125382;4913;4320;12014.0
+2016-05;P;Avondspits;Pointe du soir;Evening peak hour;84.34325744308231;2855;2408;8604.0
+2016-06;L;Avondspits;Pointe du soir;Evening peak hour;84.39913500154465;3237;2732;9142.0
+2016-06;L;Weekends;Weekends;Weekends;92.94937487189998;4879;4535;7072.0
+2016-06;P;Avondspits;Pointe du soir;Evening peak hour;82.58884903814803;3067;2533;9922.0
+2016-06;P;Weekends;Weekends;Weekends;80.0;5;4;19.0
+2016-06;S;Weekends;Weekends;Weekends;95.97938144329898;2910;2793;3110.0
+2016-06;S;Daluren;Heures creuses;Off-peak hours;90.88279408613671;9334;8483;19081.0
+2016-07;IC;Daluren;Heures creuses;Off-peak hours;90.82322807860088;24987;22694;49627.0
+2016-07;P;Avondspits;Pointe du soir;Evening peak hour;86.8596881959911;1796;1560;4382.0
+2016-07;P;Daluren;Heures creuses;Off-peak hours;85.52188552188552;594;508;1535.0
+2016-07;S;Avondspits;Pointe du soir;Evening peak hour;91.36872517154208;2769;2530;5467.0
+2016-08;IC;Weekends;Weekends;Weekends;93.50728684876516;11459;10715;16033.0
+2016-08;L;Weekends;Weekends;Weekends;95.98034053010356;5697;5468;5739.0
+2016-08;L;Daluren;Heures creuses;Off-peak hours;94.01161475224376;13259;12465;17977.0
+2016-08;P;Avondspits;Pointe du soir;Evening peak hour;87.74398547435315;2203;1933;5239.0
+2016-08;S;Avondspits;Pointe du soir;Evening peak hour;88.96125040703355;3071;2732;7332.0
+2016-09;L;Daluren;Heures creuses;Off-peak hours;91.64243644225752;13413;12292;22236.0
+2016-09;P;Ochtendspits;Pointe du matin;Morning peak hour;87.82081194587028;4286;3764;10152.0
+2016-10;IC;Avondspits;Pointe du soir;Evening peak hour;78.26617826617827;6552;5128;29349.0
+2016-10;L;Ochtendspits;Pointe du matin;Morning peak hour;85.62443845462714;3339;2859;8733.0
+2016-10;P;Daluren;Heures creuses;Off-peak hours;86.05341246290801;1011;870;2686.0
+2016-10;S;Weekends;Weekends;Weekends;92.52857541120714;3587;3319;6322.0
+2016-11;L;Weekends;Weekends;Weekends;91.3738019169329;6260;5720;11465.0
+2016-11;P;Ochtendspits;Pointe du matin;Morning peak hour;75.85189160182453;3727;2827;15187.0
+2016-11;P;Avondspits;Pointe du soir;Evening peak hour;77.11085582998277;3482;2685;14063.0
+2016-11;P;Weekends;Weekends;Weekends;90.0;30;27;78.0
+2016-11;S;Ochtendspits;Pointe du matin;Morning peak hour;75.08256880733944;2725;2046;11356.0
+2016-11;S;Avondspits;Pointe du soir;Evening peak hour;75.91073186741056;3047;2313;12542.0
+2016-11;S;Weekends;Weekends;Weekends;89.57761930883159;3646;3266;7383.0
+2016-12;IC;Avondspits;Pointe du soir;Evening peak hour;84.14616392487989;6869;5780;21238.0
+2016-12;L;Weekends;Weekends;Weekends;96.39032815198618;5790;5581;5272.0
+2016-12;L;Daluren;Heures creuses;Off-peak hours;92.35599036285318;13697;12650;19966.0
+2016-12;P;Ochtendspits;Pointe du matin;Morning peak hour;84.20482254131672;3691;3108;10388.0
+2016-12;P;Avondspits;Pointe du soir;Evening peak hour;84.06531531531532;3552;2986;9803.0
+2016-12;P;Weekends;Weekends;Weekends;76.47058823529412;17;13;75.0
+2017-01;IC;Ochtendspits;Pointe du matin;Morning peak hour;86.50659452147447;5914;5116;15889.0
+2017-01;IC;Daluren;Heures creuses;Off-peak hours;90.36703850305865;27790;25113;55868.0
+2017-01;L;Ochtendspits;Pointe du matin;Morning peak hour;90.52987598647125;3548;3212;6661.0
+2017-01;L;Avondspits;Pointe du soir;Evening peak hour;91.47391070467994;3718;3401;6700.0
+2017-01;L;Daluren;Heures creuses;Off-peak hours;93.48918505571335;13731;12837;18620.0
+2017-01;P;Weekends;Weekends;Weekends;100.0;3;3;1.0
+2017-01;S;Weekends;Weekends;Weekends;96.89009661835749;3312;3209;3245.0
+2017-02;IC;Avondspits;Pointe du soir;Evening peak hour;82.72217774219376;6245;5166;20989.0
+2017-02;IC;Weekends;Weekends;Weekends;87.37918215613382;10760;9402;30242.0
+2017-02;IC;Daluren;Heures creuses;Off-peak hours;88.44028066324331;25511;22562;60846.0
+2017-02;L;Avondspits;Pointe du soir;Evening peak hour;88.2981882981883;3367;2973;7714.0
+2017-02;L;Weekends;Weekends;Weekends;93.72409709887506;5067;4749;6956.0
+2017-02;P;Daluren;Heures creuses;Off-peak hours;87.80260707635009;1074;943;2450.0
+2017-02;S;Daluren;Heures creuses;Off-peak hours;93.31180331284509;9599;8957;14902.0
+2017-03;IC;Avondspits;Pointe du soir;Evening peak hour;84.69785575048732;7182;6083;20865.0
+2017-03;P;Weekends;Weekends;Weekends;78.26086956521739;23;18;104.0
+2017-03;P;Daluren;Heures creuses;Off-peak hours;88.08163265306122;1225;1079;2796.0
+2017-03;S;Avondspits;Pointe du soir;Evening peak hour;88.5746929448729;3501;3101;8233.0
+2017-03;S;Weekends;Weekends;Weekends;91.5368081676518;3722;3407;6794.0
+2017-04;L;Ochtendspits;Pointe du matin;Morning peak hour;94.79674796747967;3075;2915;3899.0
+2017-04;L;Daluren;Heures creuses;Off-peak hours;94.83512786002692;11888;11274;13981.0
+2017-04;P;Avondspits;Pointe du soir;Evening peak hour;86.29460895975703;2634;2273;6842.0
+2017-04;S;Ochtendspits;Pointe du matin;Morning peak hour;93.24644549763033;2532;2361;4257.0
+2017-04;S;Avondspits;Pointe du soir;Evening peak hour;90.35118836466832;2819;2547;5691.0
+2017-04;S;Weekends;Weekends;Weekends;95.00983284169125;4068;3865;6050.0
+2017-04;S;Daluren;Heures creuses;Off-peak hours;95.76007122190073;8986;8605;10575.0
+2017-05;P;Ochtendspits;Pointe du matin;Morning peak hour;87.90342448879034;4059;3568;9591.0
+2017-05;P;Avondspits;Pointe du soir;Evening peak hour;79.41888619854721;3717;2952;13433.0
+2017-05;P;Weekends;Weekends;Weekends;86.36363636363636;22;19;42.0
+2017-05;S;Avondspits;Pointe du soir;Evening peak hour;78.67553865652725;3156;2483;12683.0
+2017-05;S;Daluren;Heures creuses;Off-peak hours;90.4865938430983;10070;9112;20597.0
+2017-06;IC;Avondspits;Pointe du soir;Evening peak hour;76.4469825590369;6479;4953;29034.0
+2017-06;IC;Weekends;Weekends;Weekends;89.40987555198716;12455;11136;25632.0
+2017-06;IC;Daluren;Heures creuses;Off-peak hours;84.40841930242226;26463;22337;86279.0
+2017-06;L;Ochtendspits;Pointe du matin;Morning peak hour;91.7504435245417;3382;3103;5912.0
+2017-06;S;Weekends;Weekends;Weekends;92.39648682559599;3985;3682;6186.0
+2017-06;S;Daluren;Heures creuses;Off-peak hours;91.27470355731225;10120;9237;20404.0
+2017-07;L;Weekends;Weekends;Weekends;96.66619974786384;7139;6901;5479.0
+2017-07;P;Ochtendspits;Pointe du matin;Morning peak hour;89.78658536585365;1968;1767;4004.0
+2017-07;P;Avondspits;Pointe du soir;Evening peak hour;87.24622592399793;1921;1676;4582.0
+2017-07;S;Avondspits;Pointe du soir;Evening peak hour;90.30217849613493;2846;2570;5556.0
+2017-07;S;Weekends;Weekends;Weekends;97.65037593984962;4256;4156;3469.0
+2017-08;IC;Daluren;Heures creuses;Off-peak hours;90.83506016650307;27507;24986;54123.0
+2017-08;P;Daluren;Heures creuses;Off-peak hours;89.93197278911565;735;661;1486.0
+2017-08;S;Ochtendspits;Pointe du matin;Morning peak hour;93.97675237759775;2839;2668;4179.0
+2017-08;S;Avondspits;Pointe du soir;Evening peak hour;91.37766465160675;3143;2872;5988.0
+2017-09;IC;Avondspits;Pointe du soir;Evening peak hour;81.79360072104551;6657;5445;22779.0
+2017-09;IC;Weekends;Weekends;Weekends;85.80946612442676;11557;9917;30071.0
+2017-09;L;Weekends;Weekends;Weekends;93.88458225667527;5805;5450;7691.0
+2017-09;P;Ochtendspits;Pointe du matin;Morning peak hour;85.41666666666666;4128;3526;11707.0
+2017-09;P;Avondspits;Pointe du soir;Evening peak hour;82.34512097846317;3761;3097;11993.0
+2017-09;S;Avondspits;Pointe du soir;Evening peak hour;83.40597758405977;3212;2679;10018.0
+2017-10;L;Avondspits;Pointe du soir;Evening peak hour;85.71827836780325;3578;3067;8950.0
+2017-10;L;Weekends;Weekends;Weekends;90.79453972698634;5714;5188;9976.0
+2017-10;L;Daluren;Heures creuses;Off-peak hours;87.85512420050573;13446;11813;29552.0
+2017-10;P;Ochtendspits;Pointe du matin;Morning peak hour;78.74251497005989;4342;3419;16117.0
+2017-10;P;Daluren;Heures creuses;Off-peak hours;81.59031979256697;1157;944;3595.0
+2017-11;IC;Weekends;Weekends;Weekends;83.02167074449494;11444;9501;35586.0
+2017-11;IC;Daluren;Heures creuses;Off-peak hours;79.95280325809767;26273;21006;97592.0
+2017-11;L;Avondspits;Pointe du soir;Evening peak hour;80.70683661645423;3452;2786;11824.0
+2017-11;L;Daluren;Heures creuses;Off-peak hours;87.16091245376079;12976;11310;31256.0
+2017-11;P;Avondspits;Pointe du soir;Evening peak hour;76.11431567907708;3814;2903;15783.0
+2017-11;P;Daluren;Heures creuses;Off-peak hours;81.07861060329068;1094;887;3392.0
+2017-11;S;Daluren;Heures creuses;Off-peak hours;87.79181017986988;10452;9176;24890.0
+2017-12;P;Ochtendspits;Pointe du matin;Morning peak hour;81.05263157894737;3515;2849;11804.0
+2017-12;P;Daluren;Heures creuses;Off-peak hours;81.57644824311491;1053;859;3579.0
+2018-01;IC;Ochtendspits;Pointe du matin;Morning peak hour;81.97772527843402;5926;4858;20994.0
+2018-01;IC;Daluren;Heures creuses;Off-peak hours;85.95072409253338;26585;22850;72582.0
+2018-01;L;Avondspits;Pointe du soir;Evening peak hour;89.72198820556024;4748;4260;9784.0
+2018-01;L;Weekends;Weekends;Weekends;96.78181281369945;6774;6556;5815.0
+2018-01;P;Daluren;Heures creuses;Off-peak hours;86.88;1250;1086;3114.0
+2018-01;S;Avondspits;Pointe du soir;Evening peak hour;84.83245149911816;3402;2886;10407.0
+2018-01;S;Weekends;Weekends;Weekends;93.72209088521146;3807;3568;5504.0
+2018-01;S;Daluren;Heures creuses;Off-peak hours;91.36242208370436;11230;10260;21002.0
+2018-02;IC;Ochtendspits;Pointe du matin;Morning peak hour;80.04150160347105;5301;4243;19565.0
+2018-02;P;Ochtendspits;Pointe du matin;Morning peak hour;84.9095607235142;3870;3286;11149.0
+2018-02;P;Avondspits;Pointe du soir;Evening peak hour;84.30164319248826;3408;2873;9480.0
+2018-02;P;Weekends;Weekends;Weekends;60.65573770491803;61;37;473.0
+2018-02;S;Avondspits;Pointe du soir;Evening peak hour;85.00165180046251;3027;2573;8132.0
+2018-03;IC;Weekends;Weekends;Weekends;87.35899731423456;11170;9758;26999.0
+2018-03;IC;Daluren;Heures creuses;Off-peak hours;86.94441308193143;26571;23102;68461.0
+2018-03;L;Ochtendspits;Pointe du matin;Morning peak hour;91.1318553092182;4285;3905;7811.0
+2018-03;L;Avondspits;Pointe du soir;Evening peak hour;90.13462347496845;4754;4285;9798.0
+2018-03;L;Daluren;Heures creuses;Off-peak hours;91.29091325246051;17476;15954;30543.0
+2018-03;P;Weekends;Weekends;Weekends;73.33333333333333;60;44;244.0
+2018-03;S;Weekends;Weekends;Weekends;92.26158038147139;3670;3386;5823.0
+2018-03;S;Daluren;Heures creuses;Off-peak hours;92.41075363596298;11345;10484;18438.0
+2018-04;IC;Ochtendspits;Pointe du matin;Morning peak hour;87.17415942576501;5294;4615;13038.0
+2018-04;IC;Daluren;Heures creuses;Off-peak hours;87.32459457188472;23802;20785;58780.0
+2018-04;L;Ochtendspits;Pointe du matin;Morning peak hour;91.98751300728408;3844;3536;6506.0
+2018-04;S;Ochtendspits;Pointe du matin;Morning peak hour;91.03348937702556;2777;2528;5310.0
+2018-04;S;Daluren;Heures creuses;Off-peak hours;92.7256619746038;10159;9420;16011.0
+2018-05;IC;Weekends;Weekends;Weekends;89.9808457344924;13574;12214;27304.0
+2018-05;L;Ochtendspits;Pointe du matin;Morning peak hour;90.52791108865875;3959;3584;7975.0
+2018-05;L;Weekends;Weekends;Weekends;94.6120165409876;8222;7779;10410.0
+2018-05;L;Daluren;Heures creuses;Off-peak hours;88.62218862218863;15873;14067;34381.0
+2018-05;P;Ochtendspits;Pointe du matin;Morning peak hour;88.84329315209027;3899;3464;9065.0
+2018-05;S;Ochtendspits;Pointe du matin;Morning peak hour;87.94056668970283;2894;2545;6778.0
+2018-06;L;Ochtendspits;Pointe du matin;Morning peak hour;86.24783576552065;4043;3487;10170.0
+2018-06;L;Weekends;Weekends;Weekends;91.0031847133758;6280;5715;10119.0
+2018-07;IC;Avondspits;Pointe du soir;Evening peak hour;80.15023174045069;6257;5015;23977.0
+2018-07;L;Avondspits;Pointe du soir;Evening peak hour;85.77919127669242;4402;3776;11005.0
+2018-07;L;Daluren;Heures creuses;Off-peak hours;88.69117738235477;16129;14305;33277.0
+2018-07;S;Avondspits;Pointe du soir;Evening peak hour;84.26966292134831;3026;2550;8753.0
+2018-08;IC;Daluren;Heures creuses;Off-peak hours;89.43184387009269;26542;23737;56548.0
+2018-08;P;Avondspits;Pointe du soir;Evening peak hour;86.87078360145304;1927;1674;4999.0
+2018-08;S;Ochtendspits;Pointe du matin;Morning peak hour;94.30838220075887;2899;2734;4344.0
+2018-08;S;Avondspits;Pointe du soir;Evening peak hour;90.96045197740112;3186;2898;6382.0
+2018-08;S;Weekends;Weekends;Weekends;95.41547277936962;3839;3663;4681.0
+2018-08;S;Daluren;Heures creuses;Off-peak hours;93.8951620306619;10893;10228;16510.0
+2018-09;IC;Weekends;Weekends;Weekends;84.27323272438443;12590;10610;36154.0
+2018-09;L;Avondspits;Pointe du soir;Evening peak hour;81.35063686613795;4161;3385;13579.0
+2018-09;L;Weekends;Weekends;Weekends;90.73998085077281;7311;6634;13009.0
+2018-09;P;Avondspits;Pointe du soir;Evening peak hour;81.17848970251717;3496;2838;11879.0
+2018-09;P;Weekends;Weekends;Weekends;82.6086956521739;46;38;251.0
+2018-09;P;Daluren;Heures creuses;Off-peak hours;77.77777777777779;1206;938;4706.0
+2018-09;S;Avondspits;Pointe du soir;Evening peak hour;79.31258106355382;3084;2446;11052.0
+2018-10;IC;Ochtendspits;Pointe du matin;Morning peak hour;78.9873417721519;6320;4992;22703.0
+2018-10;L;Ochtendspits;Pointe du matin;Morning peak hour;81.36523266022827;4556;3707;14004.0
+2018-10;L;Weekends;Weekends;Weekends;90.27593085106383;6016;5431;10609.0
+2018-10;L;Daluren;Heures creuses;Off-peak hours;85.60722944677099;18148;15536;45193.0
+2018-10;P;Ochtendspits;Pointe du matin;Morning peak hour;83.40212904627417;4603;3839;13968.0
+2018-10;P;Avondspits;Pointe du soir;Evening peak hour;81.72123015873017;4032;3295;12729.0
+2018-10;S;Daluren;Heures creuses;Off-peak hours;88.38736842105264;11875;10496;25924.0
+2018-11;L;Ochtendspits;Pointe du matin;Morning peak hour;82.63170555689199;4157;3435;12991.0
+2018-11;L;Weekends;Weekends;Weekends;90.36088834053054;6484;5859;11941.0
+2018-11;P;Ochtendspits;Pointe du matin;Morning peak hour;80.47512991833705;4041;3252;13817.0
+2018-12;IC;Daluren;Heures creuses;Off-peak hours;89.96687370600414;24150;21727;47238.0
+2019-01;L;Avondspits;Pointe du soir;Evening peak hour;87.9884043357701;7934;6981;18324.0
+2019-01;P;Daluren;Heures creuses;Off-peak hours;85.8433734939759;1328;1140;3521.0
+2019-02;IC;Avondspits;Pointe du soir;Evening peak hour;86.15227388860501;5871;5058;15295.0
+2019-02;L;Ochtendspits;Pointe du matin;Morning peak hour;88.49584743155951;6502;5754;14681.0
+2019-02;L;Avondspits;Pointe du soir;Evening peak hour;88.39235525576167;7116;6290;16410.0
+2019-02;L;Daluren;Heures creuses;Off-peak hours;91.64744066007117;25573;23437;43980.0
+2019-03;IC;Avondspits;Pointe du soir;Evening peak hour;87.1717332;6283;5477;15494.0
+2019-03;L;Avondspits;Pointe du soir;Evening peak hour;89.73787680000001;7630;6847;15456.0
+2019-03;P;Weekends;Weekends;Weekends;67.8571429;84;57;542.0
+2019-03;P;Daluren;Heures creuses;Off-peak hours;89.0718563;1336;1190;3056.0
+2019-04;IC;Ochtendspits;Pointe du matin;Morning peak hour;90.1227977;5619;5064;11688.0
+2019-04;IC;Weekends;Weekends;Weekends;93.15972860000001;10906;10160;16231.0
+2019-04;IC;Daluren;Heures creuses;Off-peak hours;89.4543588;25328;22657;53623.0
+2019-04;ICT;Daluren;Heures creuses;Off-peak hours;90.0;30;27;49.0
+2019-04;P;Daluren;Heures creuses;Off-peak hours;90.3557312;1265;1143;2758.0
+2019-05;ICT;Weekends;Weekends;Weekends;97.41935480000001;155;151;159.0
+2019-05;P;Weekends;Weekends;Weekends;81.25;64;52;328.0
+2019-05;P;Daluren;Heures creuses;Off-peak hours;87.4688797;1205;1054;2786.0
+2019-06;IC;Weekends;Weekends;Weekends;91.0900946;14063;12810;24914.0
+2019-06;ICT;Avondspits;Pointe du soir;Evening peak hour;84.3137255;51;43;333.0
+2019-07;ICT;Avondspits;Pointe du soir;Evening peak hour;87.5912409;274;240;556.0
+2019-07;ICT;Weekends;Weekends;Weekends;94.83146070000001;445;422;554.0
+2019-07;L;Weekends;Weekends;Weekends;97.0607235;9288;9015;8012.0
+2019-07;P;Ochtendspits;Pointe du matin;Morning peak hour;94.8613678;2705;2566;3315.0
+2019-07;P;Avondspits;Pointe du soir;Evening peak hour;87.9860031;2572;2263;6550.0
+2019-07;P;Daluren;Heures creuses;Off-peak hours;93.6098655;1784;1670;2530.0
+2019-08;IC;Weekends;Weekends;Weekends;94.35336976320583;12078;11396;15867.0
+2019-08;IC;Daluren;Heures creuses;Off-peak hours;92.89314119221986;25398;23593;39050.0
+2019-08;ICT;Daluren;Heures creuses;Off-peak hours;91.904047976012;667;613;1164.0
+2019-08;L;Ochtendspits;Pointe du matin;Morning peak hour;95.80278855828662;6957;6665;7828.0
+2019-08;L;Weekends;Weekends;Weekends;96.4344439636521;11555;11143;11063.0
+2019-08;P;Ochtendspits;Pointe du matin;Morning peak hour;95.8173282116944;2343;2245;2657.0
+2019-08;P;Avondspits;Pointe du soir;Evening peak hour;90.00857632933105;2332;2099;4365.0
+2019-08;P;Weekends;Weekends;Weekends;100.0;8;8;0.0
+2019-09;IC;Avondspits;Pointe du soir;Evening peak hour;88.27180140038192;6284;5547;14721.0
+2019-09;IC;Weekends;Weekends;Weekends;89.33045356371491;11575;10340;22841.0
+2019-09;IC;Daluren;Heures creuses;Off-peak hours;91.15260379736863;25386;23140;47705.0
+2019-09;L;Avondspits;Pointe du soir;Evening peak hour;89.78494623655914;7626;6847;15460.0
+2019-09;L;Weekends;Weekends;Weekends;92.39415511427501;10676;9864;16846.0
+2019-09;L;Daluren;Heures creuses;Off-peak hours;92.34776360696965;27835;25705;45938.0
+2019-09;P;Ochtendspits;Pointe du matin;Morning peak hour;90.99137931034483;4640;4222;9353.0
+2019-10;ICT;Avondspits;Pointe du soir;Evening peak hour;89.28571428571429;28;25;46.0
+2019-10;ICT;Weekends;Weekends;Weekends;92.3076923076923;117;108;140.0
+2019-10;ICT;Daluren;Heures creuses;Off-peak hours;87.5;48;42;116.0
+2019-10;L;Avondspits;Pointe du soir;Evening peak hour;86.06755126658625;8290;7135;23936.0
+2019-11;IC;Ochtendspits;Pointe du matin;Morning peak hour;80.55005935892362;5054;4071;16803.0
+2019-11;IC;Avondspits;Pointe du soir;Evening peak hour;79.90481226864094;5673;4533;19967.0
+2019-11;L;Ochtendspits;Pointe du matin;Morning peak hour;83.01796023091725;6236;5177;18582.0
+2019-11;L;Avondspits;Pointe du soir;Evening peak hour;81.8155368053535;6874;5624;21105.0
+2019-11;P;Avondspits;Pointe du soir;Evening peak hour;81.2707182320442;3620;2942;11719.0
+2019-11;P;Weekends;Weekends;Weekends;59.09090909090909;66;39;579.0
+2019-11;P;Daluren;Heures creuses;Off-peak hours;83.16906747536012;1319;1097;4008.0
+2019-12;IC;Avondspits;Pointe du soir;Evening peak hour;85.30625722304771;6057;5167;16446.0
+2019-12;L;Ochtendspits;Pointe du matin;Morning peak hour;88.12744214006612;6654;5864;15062.0
+2019-12;L;Avondspits;Pointe du soir;Evening peak hour;87.6319350473613;7390;6476;16765.0
+2019-12;P;Avondspits;Pointe du soir;Evening peak hour;83.14350797266515;3073;2555;9101.0
+2019-12;P;Daluren;Heures creuses;Off-peak hours;87.85912882298425;1079;948;2509.0
+2020-01;IC;Weekends;Weekends;Weekends;94.91933327391034;11219;10649;12618.0
+2020-01;L;Ochtendspits;Pointe du matin;Morning peak hour;90.25499655410061;7255;6548;14398.0
+2020-01;L;Avondspits;Pointe du soir;Evening peak hour;90.02123142250531;8007;7208;16117.0
+2020-01;P;Weekends;Weekends;Weekends;89.28571428571429;28;25;42.0
+2020-01;P;Daluren;Heures creuses;Off-peak hours;90.74215761285387;1307;1186;2349.0
+2020-02;L;Daluren;Heures creuses;Off-peak hours;92.87116008755378;26498;24609;40744.0
+2020-02;P;Ochtendspits;Pointe du matin;Morning peak hour;89.57055214723927;4238;3796;8700.0
+2020-02;P;Avondspits;Pointe du soir;Evening peak hour;86.61710037174721;3766;3262;9016.0
+2020-02;P;Daluren;Heures creuses;Off-peak hours;89.5397489539749;1195;1070;2465.0
+2020-03;IC;Avondspits;Pointe du soir;Evening peak hour;90.60846560846561;6048;5480;11448.0
+2020-03;L;Ochtendspits;Pointe du matin;Morning peak hour;92.32860163092721;6622;6114;11172.0
+2020-03;L;Avondspits;Pointe du soir;Evening peak hour;92.45206038351694;7353;6798;11495.0
+2020-03;P;Ochtendspits;Pointe du matin;Morning peak hour;91.53199741435036;3094;2832;5659.0
+2020-03;P;Avondspits;Pointe du soir;Evening peak hour;89.1459074733096;2810;2505;5561.0
+2020-04;IC;Ochtendspits;Pointe du matin;Morning peak hour;97.30713245997089;4122;4011;3048.0
+2020-04;IC;Weekends;Weekends;Weekends;97.6798143851508;8189;7999;5270.0
+2020-04;IC;Daluren;Heures creuses;Off-peak hours;96.8104776579353;12980;12566;9744.0
+2020-04;L;Avondspits;Pointe du soir;Evening peak hour;96.57237936772046;6010;5804;5474.0
+2020-04;L;Weekends;Weekends;Weekends;98.23478582891;8101;7958;4714.0
+2020-04;L;Daluren;Heures creuses;Off-peak hours;97.5030880536439;11334;11051;8344.0
+2020-05;L;Ochtendspits;Pointe du matin;Morning peak hour;95.78637922586967;6123;5865;6044.0
+2020-05;L;Weekends;Weekends;Weekends;97.98823893531414;12924;12664;8210.0
+2020-06;ICT;Weekends;Weekends;Weekends;96.0;100;96;129.0
+2020-06;L;Daluren;Heures creuses;Off-peak hours;94.59633552819926;27944;26434;34543.0
+2020-06;P;Ochtendspits;Pointe du matin;Morning peak hour;96.1015948021264;3386;3254;3511.0
+2020-07;IC;Weekends;Weekends;Weekends;97.0227051859705;11319;10982;8800.0
+2020-07;L;Weekends;Weekends;Weekends;97.6604517748297;11156;10895;8168.0
+2020-08;IC;Avondspits;Pointe du soir;Evening peak hour;91.44547489606651;6254;5719;11299.0
+2020-08;ICT;Weekends;Weekends;Weekends;91.80952380952381;525;482;937.0
+2020-09;IC;Ochtendspits;Pointe du matin;Morning peak hour;90.66554338668912;5935;5381;11273.0
+2020-09;L;Ochtendspits;Pointe du matin;Morning peak hour;93.13525980192648;7371;6865;11667.0
+2020-09;L;Daluren;Heures creuses;Off-peak hours;93.89292257582954;29474;27674;40737.0
+2020-09;P;Weekends;Weekends;Weekends;60.0;35;21;207.0
+2020-09;P;Daluren;Heures creuses;Off-peak hours;93.63636363636364;1320;1236;2010.0
+2020-10;IC;Daluren;Heures creuses;Off-peak hours;92.32183045761441;26660;24613;43327.0
+2020-10;L;Ochtendspits;Pointe du matin;Morning peak hour;90.93010606472667;7354;6687;13825.0
+2020-10;P;Daluren;Heures creuses;Off-peak hours;92.48826291079813;1278;1182;2240.0
+2020-11;IC;Ochtendspits;Pointe du matin;Morning peak hour;87.91763791763792;5148;4526;12556.0
+2020-11;IC;Weekends;Weekends;Weekends;92.00293470286134;12267;11286;19601.0
+2020-11;L;Avondspits;Pointe du soir;Evening peak hour;93.11674825693518;6741;6277;10839.0
+2020-11;L;Daluren;Heures creuses;Off-peak hours;94.49582768117729;24327;22988;31463.0
+2020-11;P;Avondspits;Pointe du soir;Evening peak hour;91.61585365853658;3280;3005;5758.0
+2020-12;IC;Daluren;Heures creuses;Off-peak hours;94.38282082658982;25333;23910;32435.0
+2020-12;L;Ochtendspits;Pointe du matin;Morning peak hour;94.34235277094487;6911;6520;9373.0
+2020-12;L;Daluren;Heures creuses;Off-peak hours;95.89329080430606;27589;26456;28979.0
+2021-01;IC;Ochtendspits;Pointe du matin;Morning peak hour;90.56464962295382;5437;4924;10486.0
+2021-01;IC;Weekends;Weekends;Weekends;94.90339044841414;13715;13016;16006.0
+2021-01;L;Ochtendspits;Pointe du matin;Morning peak hour;93.22768724772014;6689;6236;10938.0
+2021-01;L;Avondspits;Pointe du soir;Evening peak hour;94.430174395025;7397;6985;10093.0
+2021-02;IC;Weekends;Weekends;Weekends;92.61939218523878;9674;8960;15022.0
+2021-02;IC;Daluren;Heures creuses;Off-peak hours;88.7633499649499;24251;21526;57139.0
+2021-02;L;Avondspits;Pointe du soir;Evening peak hour;91.85358469794963;7267;6675;12317.0
+2021-02;P;Weekends;Weekends;Weekends;82.45614035087719;57;47;205.0
+2021-03;IC;Weekends;Weekends;Weekends;93.63665287941457;9429;8829;13905.0
+2021-03;L;Weekends;Weekends;Weekends;95.61979851073148;9132;8732;10194.0
+2021-03;P;Weekends;Weekends;Weekends;76.66666666666667;60;46;209.0
+2021-04;IC;Avondspits;Pointe du soir;Evening peak hour;90.93090211132437;6252;5685;11626.0
+2021-04;ICT;Weekends;Weekends;Weekends;90.38461538461539;52;47;76.0
+2021-04;L;Ochtendspits;Pointe du matin;Morning peak hour;94.38880706921944;6790;6409;9287.0
+2021-04;L;Avondspits;Pointe du soir;Evening peak hour;93.87149028077754;7408;6954;9992.0
+2021-04;L;Daluren;Heures creuses;Off-peak hours;95.13612950699043;27180;25858;32101.0
+2021-04;P;Avondspits;Pointe du soir;Evening peak hour;92.4963924963925;2772;2564;4503.0
+2021-05;L;Avondspits;Pointe du soir;Evening peak hour;93.13822986219633;7039;6556;11403.0
+2021-05;L;Weekends;Weekends;Weekends;96.8790110112815;14803;14341;13440.0
+2021-05;P;Weekends;Weekends;Weekends;77.63157894736842;76;59;349.0
+2021-06;IC;Weekends;Weekends;Weekends;94.90967162391456;10019;9509;11881.0
+2021-06;IC;Daluren;Heures creuses;Off-peak hours;90.76078896633545;26972;24480;53362.0
+2021-06;ICT;Weekends;Weekends;Weekends;90.0;130;117;386.0
+2021-06;ICT;Daluren;Heures creuses;Off-peak hours;55.55555555555556;9;5;47.0
+2021-06;L;Weekends;Weekends;Weekends;96.75833943323225;9563;9253;9544.0
+2021-06;P;Weekends;Weekends;Weekends;80.0;30;24;125.0
+2021-07;IC;Weekends;Weekends;Weekends;95.12331838565022;12488;11879;13512.0
+2021-07;ICT;Avondspits;Pointe du soir;Evening peak hour;97.09302325581395;172;167;115.0
+2021-07;L;Daluren;Heures creuses;Off-peak hours;95.81963019805599;27366;26222;29968.0
+2021-07;P;Ochtendspits;Pointe du matin;Morning peak hour;96.20493358633776;2108;2028;2211.0
+2021-07;P;Weekends;Weekends;Weekends;100.0;5;5;1.0
+2021-08;L;Avondspits;Pointe du soir;Evening peak hour;94.18649026841369;7861;7404;10407.0
+2021-09;IC;Ochtendspits;Pointe du matin;Morning peak hour;89.8389506890254;6023;5411;12762.0
+2021-09;IC;Weekends;Weekends;Weekends;91.09122343130277;9833;8957;17329.0
+2021-09;ICT;Weekends;Weekends;Weekends;97.5;40;39;40.0
+2021-09;L;Daluren;Heures creuses;Off-peak hours;92.8347140566542;29936;27791;47510.0
+2021-09;P;Ochtendspits;Pointe du matin;Morning peak hour;90.80773042616453;4036;3665;7785.0
+2021-09;P;Weekends;Weekends;Weekends;88.88888888888889;27;24;57.0
+2021-09;P;Daluren;Heures creuses;Off-peak hours;90.03350083752095;1194;1075;2357.0
+2021-10;IC;Avondspits;Pointe du soir;Evening peak hour;85.21071596428011;6383;5439;17506.0
+2021-10;L;Ochtendspits;Pointe du matin;Morning peak hour;87.45921407291814;7049;6165;16905.0
+2021-10;P;Ochtendspits;Pointe du matin;Morning peak hour;86.44455747711089;3932;3399;10256.0
+2021-10;P;Daluren;Heures creuses;Off-peak hours;87.22504230118443;1182;1031;2989.0
+2021-11;IC;Ochtendspits;Pointe du matin;Morning peak hour;85.32455315145813;5315;4535;14126.0
+2021-11;ICT;Avondspits;Pointe du soir;Evening peak hour;100.0;8;8;2.0
+2021-11;L;Weekends;Weekends;Weekends;95.40034071550255;12327;11760;14171.0
+2021-12;ICT;Daluren;Heures creuses;Off-peak hours;72.22222222222221;18;13;390.0
+2021-12;L;Ochtendspits;Pointe du matin;Morning peak hour;92.48033019476331;7753;7170;12895.0
+2021-12;P;Weekends;Weekends;Weekends;73.80952380952381;42;31;165.0
+2021-12;P;Daluren;Heures creuses;Off-peak hours;90.58823529411765;1190;1078;2037.0
+2022-01;L;Avondspits;Pointe du soir;Evening peak hour;93.52029709309771;7809;7303;12323.0
+2022-01;P;Ochtendspits;Pointe du matin;Morning peak hour;91.35985748218528;3368;3077;6515.0
+2022-01;P;Weekends;Weekends;Weekends;77.77777777777779;54;42;180.0
+2022-02;IC;Ochtendspits;Pointe du matin;Morning peak hour;88.85141465242646;5337;4742;11482.0
+2022-02;L;Weekends;Weekends;Weekends;94.62297168310532;9429;8922;12510.0
+2022-02;P;Ochtendspits;Pointe du matin;Morning peak hour;91.95882025598219;3594;3305;6484.0
+2022-02;P;Weekends;Weekends;Weekends;67.3469387755102;49;33;254.0
+2022-03;P;Weekends;Weekends;Weekends;71.9298245614035;57;41;213.0
+2022-03;P;Daluren;Heures creuses;Off-peak hours;90.21651964715318;1247;1125;2603.0
+2022-04;ICT;Daluren;Heures creuses;Off-peak hours;100.0;10;10;3.0
+2022-04;L;Weekends;Weekends;Weekends;95.65584854631508;11832;11318;13035.0
+2022-04;P;Weekends;Weekends;Weekends;71.42857142857143;35;25;166.0
+2022-05;ICT;Weekends;Weekends;Weekends;93.75;160;150;207.0
+2022-05;L;Avondspits;Pointe du soir;Evening peak hour;84.21875;7680;6468;22488.0
+2022-05;L;Daluren;Heures creuses;Off-peak hours;91.08492742307556;28177;25665;53217.0
+2022-05;P;Weekends;Weekends;Weekends;73.68421052631578;76;56;418.0
+2022-06;IC;Weekends;Weekends;Weekends;90.22170151405912;11096;10011;21186.0
+2022-06;P;Avondspits;Pointe du soir;Evening peak hour;84.29271279853032;3266;2753;9447.0
+2022-06;P;Weekends;Weekends;Weekends;80.3921568627451;51;41;195.0
+2022-07;IC;Avondspits;Pointe du soir;Evening peak hour;84.64019008825527;5892;4987;18267.0
+2022-07;IC;Daluren;Heures creuses;Off-peak hours;88.38876385763108;23994;21208;59057.0
+2022-07;ICT;Daluren;Heures creuses;Off-peak hours;97.91666666666666;96;94;54.0
+2022-07;L;Ochtendspits;Pointe du matin;Morning peak hour;94.97076023391813;6840;6496;8693.0
+2022-07;L;Daluren;Heures creuses;Off-peak hours;92.72885599216283;27561;25557;46219.0
+2022-08;ICT;Daluren;Heures creuses;Off-peak hours;96.875;96;93;84.0
+2022-08;INT;Daluren;Heures creuses;Off-peak hours;65.38461538461539;26;17;445.0
+2022-08;P;Ochtendspits;Pointe du matin;Morning peak hour;93.52914180816889;2179;2038;3462.0
+2022-08;P;Avondspits;Pointe du soir;Evening peak hour;88.6178861788618;1968;1744;4368.0
+2022-09;IC;Ochtendspits;Pointe du matin;Morning peak hour;87.18383975555932;5891;5136;14973.0
+2022-09;IC;Avondspits;Pointe du soir;Evening peak hour;81.28862793572311;6472;5261;23077.0
+2022-09;IC;Weekends;Weekends;Weekends;92.7252435064935;9856;9139;16230.0
+2022-09;INT;Daluren;Heures creuses;Off-peak hours;57.692307692307686;26;15;1072.0
+2022-09;P;Ochtendspits;Pointe du matin;Morning peak hour;88.64441072331816;3954;3505;9602.0
+2022-10;IC;Weekends;Weekends;Weekends;90.72014289193797;12317;11174;24024.0
+2022-10;ICT;Weekends;Weekends;Weekends;90.14084507042254;142;128;308.0
+2022-10;ICT;Daluren;Heures creuses;Off-peak hours;71.42857142857143;14;10;42.0
+2022-10;L;Ochtendspits;Pointe du matin;Morning peak hour;83.96008099508244;6914;5805;19460.0
+2022-10;L;Weekends;Weekends;Weekends;92.91246772715915;12007;11156;19167.0
+2022-10;P;Ochtendspits;Pointe du matin;Morning peak hour;86.37007650892605;3529;3048;9211.0
+2022-10;P;Avondspits;Pointe du soir;Evening peak hour;81.98757763975155;3059;2508;9925.0
+2022-10;P;Weekends;Weekends;Weekends;77.38095238095238;84;65;442.0
+2022-11;IC;Ochtendspits;Pointe du matin;Morning peak hour;82.35774015908628;4903;4038;15731.0
+2022-11;IC;Avondspits;Pointe du soir;Evening peak hour;75.56287753981329;5463;4128;22721.0
+2022-11;INT;Daluren;Heures creuses;Off-peak hours;50.0;16;8;224.0
+2022-11;L;Weekends;Weekends;Weekends;93.17792252314021;11668;10872;18194.0
+2022-11;L;Daluren;Heures creuses;Off-peak hours;86.2930031577198;24068;20769;60924.0
+2022-11;P;Ochtendspits;Pointe du matin;Morning peak hour;84.07277369932972;3133;2634;8815.0
+2022-11;P;Weekends;Weekends;Weekends;72.58064516129032;62;45;435.0
+2022-12;IC;Avondspits;Pointe du soir;Evening peak hour;76.03478821066194;6209;4721;27806.0
+2022-12;IC;Weekends;Weekends;Weekends;92.01155853840419;10728;9871;18356.0
+2022-12;P;Ochtendspits;Pointe du matin;Morning peak hour;83.52654057352044;3278;2738;10407.0
+2023-01;P;Avondspits;Pointe du soir;Evening peak hour;85.22840946982328;2999;2556;8448.0
+2023-02;IC;Weekends;Weekends;Weekends;92.4259622329997;9691;8957;16463.0
+2023-02;L;Daluren;Heures creuses;Off-peak hours;88.15668032635583;27087;23879;62004.0
+2023-02;P;Daluren;Heures creuses;Off-peak hours;87.71106941838649;1066;935;2648.0
+2023-03;IC;Weekends;Weekends;Weekends;92.32339730502245;9796;9044;15920.0
+2023-03;L;Ochtendspits;Pointe du matin;Morning peak hour;89.75069252077562;7581;6804;15887.0
+2023-03;L;Daluren;Heures creuses;Off-peak hours;89.1284845665681;30097;26825;63182.0
+2023-04;INT;Weekends;Weekends;Weekends;75.0;4;3;10.0
+2023-04;L;Avondspits;Pointe du soir;Evening peak hour;86.43858838033596;6489;5609;16384.0
+2023-05;IC;Ochtendspits;Pointe du matin;Morning peak hour;87.79845835683399;5319;4670;12410.0
+2023-05;IC;Avondspits;Pointe du soir;Evening peak hour;75.66462167689161;5868;4440;25771.0
+2023-05;IC;Weekends;Weekends;Weekends;89.02187698161065;12616;11231;27622.0
+2023-05;INT;Weekends;Weekends;Weekends;50.0;2;1;18.0
+2023-05;L;Avondspits;Pointe du soir;Evening peak hour;83.46584018326371;7421;6194;22407.0
+2023-06;L;Avondspits;Pointe du soir;Evening peak hour;82.13738508682329;7832;6433;24453.0
+2023-06;P;Avondspits;Pointe du soir;Evening peak hour;82.4015247776366;3148;2594;9873.0
+2023-06;P;Daluren;Heures creuses;Off-peak hours;84.61538461538461;1040;880;3104.0
+2023-07;IC;Ochtendspits;Pointe du matin;Morning peak hour;93.04331520720045;5333;4962;8195.0
+2023-07;IC;Weekends;Weekends;Weekends;92.63392857142857;13440;12450;21462.0
+2023-07;IC;Daluren;Heures creuses;Off-peak hours;88.26314477946673;24078;21252;56226.0
+2023-07;INT;Daluren;Heures creuses;Off-peak hours;51.42857142857142;35;18;866.0
+2023-07;L;Daluren;Heures creuses;Off-peak hours;91.86608419994587;25867;23763;44499.0
+2023-07;P;Weekends;Weekends;Weekends;100.0;6;6;6.0
+2023-08;IC;Weekends;Weekends;Weekends;93.2288344117379;10973;10230;16697.0
+2023-08;L;Weekends;Weekends;Weekends;95.45329291815928;10887;10392;13224.0
+2023-08;L;Daluren;Heures creuses;Off-peak hours;92.51481260736949;28523;26388;47546.0
+2023-09;L;Daluren;Heures creuses;Off-peak hours;88.32374897310427;27997;24728;62783.0
+2023-09;P;Avondspits;Pointe du soir;Evening peak hour;81.86429930247306;3154;2582;10101.0
+2023-09;P;Weekends;Weekends;Weekends;70.27027027027027;37;26;259.0
+2023-10;IC;Avondspits;Pointe du soir;Evening peak hour;74.22601799603477;6557;4867;28605.0
+2023-10;L;Weekends;Weekends;Weekends;94.11334552102376;10940;10296;15886.0
+2023-11;IC;Daluren;Heures creuses;Off-peak hours;77.35504828015841;22473;17384;90574.0
+2023-11;INT;Weekends;Weekends;Weekends;85.71428571428571;7;6;91.0
+2023-11;L;Daluren;Heures creuses;Off-peak hours;84.51066222240071;24901;21044;70586.0
+2023-11;P;Avondspits;Pointe du soir;Evening peak hour;72.54021698466143;2673;1939;12272.0
+2023-11;P;Daluren;Heures creuses;Off-peak hours;76.55889145496536;866;663;3971.0
+2023-12;IC;Ochtendspits;Pointe du matin;Morning peak hour;84.6078431372549;5100;4315;14783.0
+2023-12;IC;Avondspits;Pointe du soir;Evening peak hour;77.2695530726257;5728;4426;22255.0
+2023-12;INT;Weekends;Weekends;Weekends;54.54545454545454;11;6;350.0
+2023-12;L;Avondspits;Pointe du soir;Evening peak hour;83.0149212104309;7171;5953;21001.0
+2023-12;L;Daluren;Heures creuses;Off-peak hours;89.06815440289505;26528;23628;56067.0
+2023-12;P;Ochtendspits;Pointe du matin;Morning peak hour;88.08349146110058;2635;2321;6677.0
+2023-12;P;Avondspits;Pointe du soir;Evening peak hour;79.39367311072057;2276;1807;7919.0
+2023-12;P;Daluren;Heures creuses;Off-peak hours;82.06521739130434;736;604;2522.0
+2024-01;IC;Avondspits;Pointe du soir;Evening peak hour;77.09585574185385;6322;4874;28101.0
+2024-01;IC;Daluren;Heures creuses;Off-peak hours;83.21511179645336;25940;21586;88783.0
+2024-01;P;Avondspits;Pointe du soir;Evening peak hour;81.006006006006;2664;2158;9332.0
+2024-02;IC;Ochtendspits;Pointe du matin;Morning peak hour;85.25048001396405;5729;4884;15105.0
+2024-02;P;Ochtendspits;Pointe du matin;Morning peak hour;88.42493091802271;3257;2880;7235.0
+2024-02;P;Daluren;Heures creuses;Off-peak hours;88.17451205510906;871;768;2272.0
+2024-03;L;Daluren;Heures creuses;Off-peak hours;92.45246659815005;31136;28786;51083.0
+2024-03;P;Ochtendspits;Pointe du matin;Morning peak hour;91.82428309945088;3278;3010;5690.0
+2024-03;P;Weekends;Weekends;Weekends;72.88135593220339;59;43;303.0
+2024-04;IC;Ochtendspits;Pointe du matin;Morning peak hour;88.66738505747126;5568;4937;12151.0
+2024-04;L;Daluren;Heures creuses;Off-peak hours;91.1284124703445;29927;27272;55297.0
+2024-04;P;Weekends;Weekends;Weekends;89.58333333333334;48;43;123.0
+2024-04;P;Daluren;Heures creuses;Off-peak hours;88.97435897435896;780;694;1855.0
+2024-05;IC;Ochtendspits;Pointe du matin;Morning peak hour;90.46571323799046;5454;4934;10680.0
+2024-05;L;Avondspits;Pointe du soir;Evening peak hour;86.1006371083084;7691;6622;19801.0
+2024-05;P;Weekends;Weekends;Weekends;82.45614035087719;57;47;209.0
+2016-01;IC;Ochtendspits;Pointe du matin;Morning peak hour;82.2217987804878;5248;4315;17886.0
+2016-01;IC;Weekends;Weekends;Weekends;92.1941862180906;13554;12496;21338.0
+2016-01;P;Avondspits;Pointe du soir;Evening peak hour;85.7624004898959;3266;2801;8716.0
+2016-01;S;Ochtendspits;Pointe du matin;Morning peak hour;81.51743976986695;2781;2267;9203.0
+2016-01;S;Avondspits;Pointe du soir;Evening peak hour;86.87872763419483;3018;2622;8428.0
+2016-01;S;Daluren;Heures creuses;Off-peak hours;93.49967170059094;9138;8544;15382.0
+2016-02;IC;Weekends;Weekends;Weekends;92.60661618174572;10036;9294;16086.0
+2016-02;P;Avondspits;Pointe du soir;Evening peak hour;87.70844540075309;3718;3261;8489.0
+2016-02;S;Ochtendspits;Pointe du matin;Morning peak hour;84.83381736043886;3099;2629;8885.0
+2016-03;IC;Ochtendspits;Pointe du matin;Morning peak hour;86.4214273605696;5899;5098;16089.0
+2016-03;IC;Avondspits;Pointe du soir;Evening peak hour;87.30277986476334;6655;5810;18749.0
+2016-03;IC;Weekends;Weekends;Weekends;92.8649138712602;11030;10243;17044.0
+2016-03;IC;Daluren;Heures creuses;Off-peak hours;89.88328313253012;26560;23873;60634.0
+2016-03;L;Ochtendspits;Pointe du matin;Morning peak hour;91.9965075669383;3436;3161;6130.0
+2016-03;L;Avondspits;Pointe du soir;Evening peak hour;92.42466910729372;3551;3282;6044.0
+2016-03;S;Ochtendspits;Pointe du matin;Morning peak hour;87.65125659323611;3223;2825;8018.0
+2016-03;S;Avondspits;Pointe du soir;Evening peak hour;87.31894767957435;3383;2954;8795.0
+2016-03;S;Weekends;Weekends;Weekends;96.86111933668937;3377;3271;3379.0
+2016-04;IC;Weekends;Weekends;Weekends;90.68833302903049;10954;9934;20592.0
+2016-04;P;Avondspits;Pointe du soir;Evening peak hour;86.02592475497946;3163;2721;7797.0
+2016-04;P;Daluren;Heures creuses;Off-peak hours;85.68443051201672;957;820;2316.0
+2016-04;S;Daluren;Heures creuses;Off-peak hours;93.91988555078684;9786;9191;14265.0
+2016-05;IC;Daluren;Heures creuses;Off-peak hours;87.85778985507247;22080;19399;59653.0
+2016-05;L;Daluren;Heures creuses;Off-peak hours;90.40180764318694;10179;9202;19091.0
+2016-05;P;Ochtendspits;Pointe du matin;Morning peak hour;91.10438729198185;3305;3011;6478.0
+2016-05;P;Weekends;Weekends;Weekends;94.44444444444444;18;17;18.0
+2016-05;P;Daluren;Heures creuses;Off-peak hours;84.87690504103166;853;724;2315.0
+2016-05;S;Ochtendspits;Pointe du matin;Morning peak hour;91.7852785685238;2459;2257;5361.0
+2016-05;S;Avondspits;Pointe du soir;Evening peak hour;84.3280708509819;2597;2190;8164.0
+2016-05;S;Weekends;Weekends;Weekends;95.16738660907127;3704;3525;4187.0
+2016-06;IC;Weekends;Weekends;Weekends;90.4263797569237;10038;9077;19390.0
+2016-06;IC;Daluren;Heures creuses;Off-peak hours;84.24633152711309;25283;21300;84069.0
+2016-06;L;Ochtendspits;Pointe du matin;Morning peak hour;88.82611424984307;3186;2830;7576.0
+2016-06;L;Daluren;Heures creuses;Off-peak hours;88.26298835384489;12107;10686;27545.0
+2016-06;P;Daluren;Heures creuses;Off-peak hours;82.13507625272331;918;754;3093.0
+2016-07;IC;Ochtendspits;Pointe du matin;Morning peak hour;92.61228230980751;5455;5052;9082.0
+2016-07;IC;Avondspits;Pointe du soir;Evening peak hour;87.3959000640615;6244;5457;16475.0
+2016-07;L;Daluren;Heures creuses;Off-peak hours;93.73104974186676;12203;11438;16812.0
+2016-07;P;Weekends;Weekends;Weekends;85.71428571428571;14;12;52.0
+2016-07;S;Weekends;Weekends;Weekends;98.18849449204407;4085;4011;2858.0
+2016-08;IC;Ochtendspits;Pointe du matin;Morning peak hour;91.69861643607268;5999;5501;11748.0
+2016-08;P;Ochtendspits;Pointe du matin;Morning peak hour;92.96636085626912;2289;2128;4072.0
+2016-08;S;Weekends;Weekends;Weekends;94.18951132300357;3356;3161;3933.0
+2016-08;S;Daluren;Heures creuses;Off-peak hours;92.75464834276475;9896;9179;15742.0
+2016-09;IC;Ochtendspits;Pointe du matin;Morning peak hour;86.95007414730598;6069;5277;15529.0
+2016-09;L;Ochtendspits;Pointe du matin;Morning peak hour;89.43208430913349;3416;3055;7328.0
+2016-09;L;Avondspits;Pointe du soir;Evening peak hour;89.09899888765295;3596;3204;7895.0
+2016-09;P;Avondspits;Pointe du soir;Evening peak hour;87.86851030524393;3833;3368;8511.0
+2016-09;P;Daluren;Heures creuses;Off-peak hours;89.20664206642066;1084;967;2100.0
+2016-09;S;Ochtendspits;Pointe du matin;Morning peak hour;90.33505154639175;3104;2804;6913.0
+2016-10;IC;Daluren;Heures creuses;Off-peak hours;85.20543783701679;26334;22438;80153.0
+2016-10;L;Avondspits;Pointe du soir;Evening peak hour;86.52583499857265;3503;3031;8533.0
+2016-10;L;Weekends;Weekends;Weekends;92.88101604278076;5984;5558;9578.0
+2016-10;P;Ochtendspits;Pointe du matin;Morning peak hour;82.32651023464803;4006;3298;12277.0
+2016-10;P;Avondspits;Pointe du soir;Evening peak hour;81.83850237496507;3579;2929;12562.0
+2016-10;S;Ochtendspits;Pointe du matin;Morning peak hour;84.02447314751869;2942;2472;8699.0
+2016-10;S;Daluren;Heures creuses;Off-peak hours;90.54012503843396;9757;8834;21094.0
+2016-11;IC;Avondspits;Pointe du soir;Evening peak hour;74.55939947780679;6128;4569;28854.0
+2016-11;IC;Weekends;Weekends;Weekends;86.26267705976028;11931;10292;32404.0
+2016-12;IC;Ochtendspits;Pointe du matin;Morning peak hour;82.62791092979772;5883;4861;18414.0
+2016-12;IC;Weekends;Weekends;Weekends;91.36509589516619;11523;10528;20494.0
+2016-12;IC;Daluren;Heures creuses;Off-peak hours;88.3751127141569;27725;24502;66374.0
+2016-12;S;Avondspits;Pointe du soir;Evening peak hour;84.13228155339806;3296;2773;9325.0
+2016-12;S;Weekends;Weekends;Weekends;95.5083459787557;3295;3147;3716.0
+2016-12;S;Daluren;Heures creuses;Off-peak hours;92.13428320484044;10247;9441;17840.0
+2017-01;IC;Weekends;Weekends;Weekends;91.35205183585313;11575;10574;21096.0
+2017-01;L;Weekends;Weekends;Weekends;95.42210617928633;5745;5482;6032.0
+2017-01;P;Avondspits;Pointe du soir;Evening peak hour;87.0313801721744;3601;3134;9409.0
+2017-01;S;Daluren;Heures creuses;Off-peak hours;93.1715737987916;10427;9715;15378.0
+2017-02;IC;Ochtendspits;Pointe du matin;Morning peak hour;87.09677419354838;5456;4752;12902.0
+2017-02;L;Ochtendspits;Pointe du matin;Morning peak hour;90.62980030721967;3255;2950;5599.0
+2017-02;P;Ochtendspits;Pointe du matin;Morning peak hour;88.85424785658613;3849;3420;8145.0
+2017-02;P;Weekends;Weekends;Weekends;75.0;12;9;70.0
+2017-02;S;Weekends;Weekends;Weekends;91.47914791479148;3333;3049;6653.0
+2017-03;IC;Ochtendspits;Pointe du matin;Morning peak hour;86.78634966844574;6183;5366;15670.0
+2017-03;IC;Daluren;Heures creuses;Off-peak hours;88.41895330444949;29082;25714;69700.0
+2017-03;P;Ochtendspits;Pointe du matin;Morning peak hour;89.43820224719101;4450;3980;9507.0
+2017-04;IC;Avondspits;Pointe du soir;Evening peak hour;87.67676767676768;5940;5208;14309.0
+2017-04;L;Weekends;Weekends;Weekends;95.68977739968808;7053;6749;7013.0
+2017-04;P;Ochtendspits;Pointe du matin;Morning peak hour;90.96450340623879;2789;2537;5146.0
+2017-04;P;Weekends;Weekends;Weekends;80.0;10;8;29.0
+2017-04;P;Daluren;Heures creuses;Off-peak hours;91.63679808841098;837;767;1396.0
+2017-05;IC;Avondspits;Pointe du soir;Evening peak hour;76.51503469545105;6485;4962;27619.0
+2017-05;IC;Weekends;Weekends;Weekends;88.48860118209963;14212;12576;30364.0
+2017-05;IC;Daluren;Heures creuses;Off-peak hours;84.56818010691966;26562;22463;82505.0
+2017-05;L;Avondspits;Pointe du soir;Evening peak hour;83.0957810718358;3508;2915;10405.0
+2017-06;IC;Ochtendspits;Pointe du matin;Morning peak hour;88.37654428397424;5747;5079;13348.0
+2017-06;L;Avondspits;Pointe du soir;Evening peak hour;83.85146804835925;3474;2913;9666.0
+2017-06;P;Avondspits;Pointe du soir;Evening peak hour;79.95642701525054;3672;2936;13444.0
+2017-07;IC;Avondspits;Pointe du soir;Evening peak hour;85.99649514099092;6277;5398;17586.0
+2017-07;IC;Daluren;Heures creuses;Off-peak hours;89.67867963642162;25084;22495;55330.0
+2017-07;L;Avondspits;Pointe du soir;Evening peak hour;91.69157202630007;3346;3068;5231.0
+2017-07;L;Daluren;Heures creuses;Off-peak hours;93.44156887960136;12442;11626;17329.0
+2017-08;IC;Avondspits;Pointe du soir;Evening peak hour;88.06793438815504;6889;6067;16305.0
+2017-08;L;Avondspits;Pointe du soir;Evening peak hour;93.452866069003;3681;3440;5061.0
+2017-08;L;Weekends;Weekends;Weekends;97.4707501720578;5812;5665;4134.0
+2017-09;IC;Ochtendspits;Pointe du matin;Morning peak hour;82.8353022932592;5756;4768;19110.0
+2017-09;IC;Daluren;Heures creuses;Off-peak hours;86.25824693685202;26525;22880;73887.0
+2017-09;L;Ochtendspits;Pointe du matin;Morning peak hour;91.19293078055965;3395;3096;6756.0
+2017-09;P;Daluren;Heures creuses;Off-peak hours;88.2032667876588;1102;972;2528.0
+2017-09;S;Weekends;Weekends;Weekends;90.93723613847453;3553;3231;6615.0
+2017-09;S;Daluren;Heures creuses;Off-peak hours;90.24902490249025;9999;9024;20519.0
+2017-10;IC;Ochtendspits;Pointe du matin;Morning peak hour;75.58922558922558;5940;4490;24891.0
+2017-10;IC;Avondspits;Pointe du soir;Evening peak hour;77.52941176470588;6800;5272;29266.0
+2017-10;IC;Daluren;Heures creuses;Off-peak hours;81.55490051584377;27140;22134;97022.0
+2017-10;L;Ochtendspits;Pointe du matin;Morning peak hour;84.82558139534883;3440;2918;9839.0
+2017-10;P;Avondspits;Pointe du soir;Evening peak hour;81.34328358208955;3886;3161;12470.0
+2017-10;P;Weekends;Weekends;Weekends;50.0;24;12;244.0
+2017-10;S;Ochtendspits;Pointe du matin;Morning peak hour;80.42498390212492;3106;2498;10814.0
+2017-10;S;Weekends;Weekends;Weekends;92.52283105022832;3504;3242;6125.0
+2017-11;IC;Ochtendspits;Pointe du matin;Morning peak hour;76.25021780798048;5739;4376;23501.0
+2017-11;P;Ochtendspits;Pointe du matin;Morning peak hour;79.66666666666666;4200;3346;14896.0
+2017-11;P;Weekends;Weekends;Weekends;40.0;20;8;216.0
+2017-11;S;Ochtendspits;Pointe du matin;Morning peak hour;82.51584918251585;2997;2473;9351.0
+2017-12;IC;Avondspits;Pointe du soir;Evening peak hour;74.40798376184033;5912;4399;28080.0
+2017-12;L;Avondspits;Pointe du soir;Evening peak hour;84.12386335709019;4069;3423;12030.0
+2017-12;L;Daluren;Heures creuses;Off-peak hours;89.10041560530902;14918;13292;31976.0
+2017-12;P;Avondspits;Pointe du soir;Evening peak hour;76.21343619414979;3111;2371;13554.0
+2017-12;P;Weekends;Weekends;Weekends;78.37837837837837;37;29;159.0
+2017-12;S;Avondspits;Pointe du soir;Evening peak hour;77.87206266318537;3064;2386;11952.0
+2018-01;IC;Avondspits;Pointe du soir;Evening peak hour;82.21649484536083;6596;5423;22498.0
+2018-01;L;Ochtendspits;Pointe du matin;Morning peak hour;90.67478912839736;4268;3870;8943.0
+2018-01;L;Daluren;Heures creuses;Off-peak hours;91.57039917648405;17486;16012;29734.0
+2018-01;P;Ochtendspits;Pointe du matin;Morning peak hour;84.703824043989;4001;3389;11673.0
+2018-01;S;Ochtendspits;Pointe du matin;Morning peak hour;84.96481126039667;3126;2656;9433.0
+2018-02;IC;Avondspits;Pointe du soir;Evening peak hour;80.78691875319366;5871;4743;20804.0
+2018-02;L;Avondspits;Pointe du soir;Evening peak hour;88.67429661421077;4194;3719;9221.0
+2018-02;L;Weekends;Weekends;Weekends;93.56950973807925;5956;5573;7664.0
+2018-02;L;Daluren;Heures creuses;Off-peak hours;88.81296368606013;15366;13647;33578.0
+2018-02;S;Ochtendspits;Pointe du matin;Morning peak hour;87.86167960479887;2834;2490;6859.0
+2018-02;S;Weekends;Weekends;Weekends;94.91371480472299;3303;3135;4665.0
+2018-02;S;Daluren;Heures creuses;Off-peak hours;92.67318826112997;10018;9284;15973.0
+2018-03;IC;Ochtendspits;Pointe du matin;Morning peak hour;84.74604776320214;5946;5039;16966.0
+2018-03;IC;Avondspits;Pointe du soir;Evening peak hour;81.45795523290987;6612;5386;22676.0
+2018-03;S;Avondspits;Pointe du soir;Evening peak hour;83.31402085747392;3452;2876;10312.0
+2018-04;L;Avondspits;Pointe du soir;Evening peak hour;88.47064393939394;4224;3737;9134.0
+2018-04;P;Ochtendspits;Pointe du matin;Morning peak hour;88.05472138805473;2997;2639;7233.0
+2018-04;P;Avondspits;Pointe du soir;Evening peak hour;81.95376584638329;2682;2198;8508.0
+2018-04;P;Weekends;Weekends;Weekends;78.57142857142857;42;33;124.0
+2018-04;P;Daluren;Heures creuses;Off-peak hours;86.79802955665025;1015;881;2643.0
+2018-05;IC;Daluren;Heures creuses;Off-peak hours;82.06625206244448;23637;19398;81612.0
+2018-05;P;Avondspits;Pointe du soir;Evening peak hour;79.32734125833575;3449;2736;12161.0
+2018-05;P;Weekends;Weekends;Weekends;78.78787878787878;66;52;244.0
+2018-05;P;Daluren;Heures creuses;Off-peak hours;83.85245901639344;1220;1023;3743.0
+2018-05;S;Weekends;Weekends;Weekends;93.416447944007;4572;4271;7119.0
+2018-05;S;Daluren;Heures creuses;Off-peak hours;89.6052119797744;10284;9215;21372.0
+2018-06;IC;Ochtendspits;Pointe du matin;Morning peak hour;83.98764085786986;5502;4621;15906.0
+2018-06;IC;Avondspits;Pointe du soir;Evening peak hour;73.86099102095112;6014;4442;28904.0
+2018-06;IC;Weekends;Weekends;Weekends;88.4458834412581;10810;9561;23412.0
+2018-06;IC;Daluren;Heures creuses;Off-peak hours;81.54891864057673;24275;19796;87110.0
+2018-06;L;Daluren;Heures creuses;Off-peak hours;85.17383691845923;15992;13621;42293.0
+2018-06;S;Weekends;Weekends;Weekends;91.46341463414635;3526;3225;6283.0
+2018-07;IC;Ochtendspits;Pointe du matin;Morning peak hour;89.68673002463922;5682;5096;12810.0
+2018-07;IC;Weekends;Weekends;Weekends;91.69270833333333;11520;10563;19042.0
+2018-07;IC;Daluren;Heures creuses;Off-peak hours;85.14795979658031;24973;21264;74388.0
+2018-07;L;Weekends;Weekends;Weekends;93.41477949940405;6712;6270;8780.0
+2018-07;P;Daluren;Heures creuses;Off-peak hours;85.08014796547472;811;690;2289.0
+2018-07;S;Ochtendspits;Pointe du matin;Morning peak hour;92.69887395568472;2753;2552;5403.0
+2018-07;S;Daluren;Heures creuses;Off-peak hours;91.18667591950035;10087;9198;19299.0
+2018-08;IC;Weekends;Weekends;Weekends;93.65134132666265;11593;10857;15889.0
+2018-08;L;Avondspits;Pointe du soir;Evening peak hour;89.75795607350963;4462;4005;8542.0
+2018-08;L;Weekends;Weekends;Weekends;94.40184049079755;6520;6155;8060.0
+2018-08;P;Ochtendspits;Pointe du matin;Morning peak hour;91.33301931229393;2123;1939;4175.0
+2018-09;IC;Ochtendspits;Pointe du matin;Morning peak hour;80.88946780796428;5374;4347;17371.0
+2018-09;IC;Avondspits;Pointe du soir;Evening peak hour;77.01053335562615;5981;4606;24307.0
+2018-09;L;Ochtendspits;Pointe du matin;Morning peak hour;84.98701298701299;3850;3272;10156.0
+2018-09;P;Ochtendspits;Pointe du matin;Morning peak hour;84.10010111223458;3956;3327;11633.0
+2018-09;S;Ochtendspits;Pointe du matin;Morning peak hour;82.9624478442281;2876;2386;8779.0
+2018-09;S;Daluren;Heures creuses;Off-peak hours;87.37635882871413;10211;8922;24267.0
+2018-10;IC;Avondspits;Pointe du soir;Evening peak hour;78.91252289054796;7099;5602;27612.0
+2018-10;IC;Weekends;Weekends;Weekends;87.20402525651144;10136;8839;23725.0
+2018-11;IC;Avondspits;Pointe du soir;Evening peak hour;78.8165490699166;6236;4915;23956.0
+2018-11;IC;Daluren;Heures creuses;Off-peak hours;83.88452914798206;24976;20951;76155.0
+2018-11;P;Weekends;Weekends;Weekends;64.51612903225806;62;40;381.0
+2018-11;P;Daluren;Heures creuses;Off-peak hours;81.18110236220473;1270;1031;4246.0
+2018-11;S;Avondspits;Pointe du soir;Evening peak hour;76.74205378973105;3272;2511;12446.0
+2018-11;S;Weekends;Weekends;Weekends;89.83807928531546;3582;3218;7524.0
+2018-11;S;Daluren;Heures creuses;Off-peak hours;86.39125151883353;10699;9243;27778.0
+2018-12;IC;Avondspits;Pointe du soir;Evening peak hour;85.58709894171005;5953;5095;16443.0
+2018-12;L;Daluren;Heures creuses;Off-peak hours;91.77325361386514;26426;24252;45167.0
+2019-01;IC;Avondspits;Pointe du soir;Evening peak hour;86.32782326587363;6473;5588;17496.0
+2019-01;IC;Weekends;Weekends;Weekends;94.7268326417704;11568;10958;14742.0
+2019-01;IC;Daluren;Heures creuses;Off-peak hours;89.62043465137339;26504;23753;57100.0
+2019-01;L;Ochtendspits;Pointe du matin;Morning peak hour;86.41753998896856;7252;6267;19498.0
+2019-01;L;Weekends;Weekends;Weekends;95.46652130462434;11007;10508;13124.0
+2019-01;L;Daluren;Heures creuses;Off-peak hours;91.64515129608593;29049;26622;50039.0
+2019-01;P;Ochtendspits;Pointe du matin;Morning peak hour;85.87029195453533;4487;3853;11809.0
+2019-01;P;Weekends;Weekends;Weekends;83.33333333333334;62;51;492.0
+2019-02;P;Ochtendspits;Pointe du matin;Morning peak hour;89.24963924963924;4168;3721;9300.0
+2019-02;P;Weekends;Weekends;Weekends;70.76923076923077;69;50;352.0
+2019-03;IC;Weekends;Weekends;Weekends;92.8312757;12150;11279;21866.0
+2019-03;IC;Daluren;Heures creuses;Off-peak hours;91.50725659999999;25563;23392;45245.0
+2019-03;L;Weekends;Weekends;Weekends;94.5923181;11872;11230;15183.0
+2019-04;ICT;Avondspits;Pointe du soir;Evening peak hour;100.0;40;40;17.0
+2019-04;ICT;Weekends;Weekends;Weekends;93.9849624;133;125;118.0
+2019-04;L;Avondspits;Pointe du soir;Evening peak hour;88.5460805;7552;6687;16663.0
+2019-04;L;Weekends;Weekends;Weekends;95.2837351;10538;10041;11848.0
+2019-04;P;Weekends;Weekends;Weekends;82.5;40;33;149.0
+2019-05;ICT;Avondspits;Pointe du soir;Evening peak hour;93.75;16;15;26.0
+2019-05;L;Ochtendspits;Pointe du matin;Morning peak hour;89.7588611;6884;6179;15123.0
+2019-05;L;Avondspits;Pointe du soir;Evening peak hour;85.5617828;7494;6412;20337.0
+2019-06;IC;Ochtendspits;Pointe du matin;Morning peak hour;88.9327283;5069;4508;11314.0
+2019-06;IC;Daluren;Heures creuses;Off-peak hours;86.8039267;23022;19984;57513.0
+2019-06;L;Avondspits;Pointe du soir;Evening peak hour;85.6828517;6817;5841;18078.0
+2019-06;L;Weekends;Weekends;Weekends;93.8345392;12716;11932;18180.0
+2019-06;L;Daluren;Heures creuses;Off-peak hours;89.8478374;25039;22497;50094.0
+2019-06;P;Ochtendspits;Pointe du matin;Morning peak hour;91.7860554;4188;3844;7428.0
+2019-06;P;Weekends;Weekends;Weekends;88.23529409999999;51;45;141.0
+2019-06;P;Daluren;Heures creuses;Off-peak hours;89.234104;1384;1235;2888.0
+2019-07;IC;Ochtendspits;Pointe du matin;Morning peak hour;93.1877023;6180;5759;9428.0
+2019-07;IC;Weekends;Weekends;Weekends;95.95124969999999;9682;9290;9497.0
+2019-07;L;Ochtendspits;Pointe du matin;Morning peak hour;95.8019802;7575;7257;8887.0
+2019-07;L;Avondspits;Pointe du soir;Evening peak hour;89.202167;8122;7245;18929.0
+2019-07;L;Daluren;Heures creuses;Off-peak hours;93.4495333;29891;27933;45872.0
+2019-08;ICT;Weekends;Weekends;Weekends;90.87837837837837;592;538;1031.0
+2019-09;IC;Ochtendspits;Pointe du matin;Morning peak hour;87.98290902617055;5617;4942;13693.0
+2019-09;ICT;Avondspits;Pointe du soir;Evening peak hour;100.0;4;4;8.0
+2019-09;ICT;Weekends;Weekends;Weekends;95.42857142857143;175;167;160.0
+2019-09;P;Avondspits;Pointe du soir;Evening peak hour;88.53143418467585;4072;3605;8731.0
+2019-09;P;Daluren;Heures creuses;Off-peak hours;91.92660550458716;1635;1503;2735.0
+2019-10;IC;Avondspits;Pointe du soir;Evening peak hour;83.80261248185776;6890;5774;24740.0
+2019-10;IC;Weekends;Weekends;Weekends;90.38973852984707;10135;9161;21122.0
+2019-10;IC;Daluren;Heures creuses;Off-peak hours;88.59210194751431;27779;24610;64183.0
+2019-10;L;Daluren;Heures creuses;Off-peak hours;90.09165872729065;30439;27423;58980.0
+2019-10;P;Ochtendspits;Pointe du matin;Morning peak hour;87.64883955600403;4955;4343;12267.0
+2019-10;P;Avondspits;Pointe du soir;Evening peak hour;85.97130494192666;4391;3775;13645.0
+2019-10;P;Weekends;Weekends;Weekends;77.77777777777779;63;49;455.0
+2019-10;P;Daluren;Heures creuses;Off-peak hours;90.80021774632553;1837;1668;3431.0
+2019-11;L;Weekends;Weekends;Weekends;92.27155273666902;12771;11784;20810.0
+2019-11;L;Daluren;Heures creuses;Off-peak hours;87.72362248548939;25154;22066;57342.0
+2019-12;IC;Daluren;Heures creuses;Off-peak hours;89.99835499259746;24316;21884;48870.0
+2019-12;L;Daluren;Heures creuses;Off-peak hours;91.38880506940254;26512;24229;45550.0
+2020-01;IC;Avondspits;Pointe du soir;Evening peak hour;87.05057891529555;6564;5714;16231.0
+2020-01;IC;Daluren;Heures creuses;Off-peak hours;91.56980024827898;26583;24342;46665.0
+2020-01;L;Weekends;Weekends;Weekends;97.54830477579293;10972;10703;7865.0
+2020-01;L;Daluren;Heures creuses;Off-peak hours;93.41627253410103;29178;27257;41192.0
+2020-02;P;Weekends;Weekends;Weekends;54.90196078431373;51;28;618.0
+2020-03;IC;Weekends;Weekends;Weekends;95.0;10320;9804;12263.0
+2020-03;IC;Daluren;Heures creuses;Off-peak hours;91.816098152892;22251;20430;37972.0
+2020-03;P;Weekends;Weekends;Weekends;78.26086956521739;46;36;160.0
+2020-03;P;Daluren;Heures creuses;Off-peak hours;92.6673751328374;941;872;1558.0
+2020-05;IC;Avondspits;Pointe du soir;Evening peak hour;92.08348326736237;5558;5118;9977.0
+2020-05;IC;Daluren;Heures creuses;Off-peak hours;93.7884137570289;22941;21516;32003.0
+2020-05;L;Daluren;Heures creuses;Off-peak hours;95.42623746360401;24728;23597;28274.0
+2020-06;IC;Ochtendspits;Pointe du matin;Morning peak hour;94.35613502411145;5599;5283;7451.0
+2020-06;IC;Avondspits;Pointe du soir;Evening peak hour;91.22863592389552;6202;5658;11920.0
+2020-06;IC;Weekends;Weekends;Weekends;96.3543073183905;11109;10704;9760.0
+2020-06;ICT;Avondspits;Pointe du soir;Evening peak hour;93.75;16;15;14.0
+2020-06;ICT;Daluren;Heures creuses;Off-peak hours;96.42857142857143;56;54;43.0
+2020-06;L;Avondspits;Pointe du soir;Evening peak hour;93.51174934725849;7660;7163;11089.0
+2020-06;L;Weekends;Weekends;Weekends;97.59093505998857;10502;10249;7725.0
+2020-07;ICT;Daluren;Heures creuses;Off-peak hours;90.0593471810089;674;607;1283.0
+2020-07;L;Daluren;Heures creuses;Off-peak hours;96.28679864601497;29247;28161;28931.0
+2020-07;P;Avondspits;Pointe du soir;Evening peak hour;94.24460431654677;1668;1572;2082.0
+2020-07;P;Daluren;Heures creuses;Off-peak hours;95.26542324246772;697;664;842.0
+2020-08;IC;Ochtendspits;Pointe du matin;Morning peak hour;95.05368773103326;5681;5400;6569.0
+2020-08;IC;Weekends;Weekends;Weekends;95.37943205519012;12466;11890;14783.0
+2020-08;P;Avondspits;Pointe du soir;Evening peak hour;92.72836538461539;1664;1543;2695.0
+2020-08;P;Daluren;Heures creuses;Off-peak hours;94.89795918367348;686;651;825.0
+2020-09;IC;Avondspits;Pointe du soir;Evening peak hour;88.08569667077681;6488;5715;16006.0
+2020-09;IC;Weekends;Weekends;Weekends;92.91468704813055;9682;8996;14033.0
+2020-09;ICT;Weekends;Weekends;Weekends;87.96296296296296;108;95;281.0
+2020-09;P;Avondspits;Pointe du soir;Evening peak hour;90.894901144641;3844;3494;7206.0
+2020-10;IC;Avondspits;Pointe du soir;Evening peak hour;89.94829683698296;6576;5915;13383.0
+2020-10;P;Ochtendspits;Pointe du matin;Morning peak hour;90.18105849582173;4308;3885;8916.0
+2020-10;P;Avondspits;Pointe du soir;Evening peak hour;90.54933611038793;3841;3478;7441.0
+2020-11;IC;Avondspits;Pointe du soir;Evening peak hour;90.94196659204408;5807;5281;11543.0
+2020-11;L;Ochtendspits;Pointe du matin;Morning peak hour;90.53398058252428;6180;5595;12391.0
+2020-11;L;Weekends;Weekends;Weekends;95.66655359565807;11792;11281;13676.0
+2020-11;P;Ochtendspits;Pointe du matin;Morning peak hour;92.17462932454696;3642;3357;6702.0
+2020-11;P;Weekends;Weekends;Weekends;78.2051282051282;78;61;361.0
+2020-11;P;Daluren;Heures creuses;Off-peak hours;91.74573055028463;1054;967;1914.0
+2020-12;IC;Ochtendspits;Pointe du matin;Morning peak hour;93.42867487328023;5524;5161;8551.0
+2020-12;IC;Avondspits;Pointe du soir;Evening peak hour;92.15149073327962;6205;5718;10469.0
+2020-12;L;Weekends;Weekends;Weekends;97.79312415553221;13322;13028;9585.0
+2020-12;P;Avondspits;Pointe du soir;Evening peak hour;91.15397406052544;3007;2741;5830.0
+2020-12;P;Weekends;Weekends;Weekends;94.79166666666666;192;182;239.0
+2020-12;P;Daluren;Heures creuses;Off-peak hours;94.11206077872745;1053;991;1350.0
+2021-01;IC;Daluren;Heures creuses;Off-peak hours;92.56660854049231;24659;22826;39378.0
+2021-01;P;Weekends;Weekends;Weekends;87.03703703703704;54;47;116.0
+2021-02;L;Ochtendspits;Pointe du matin;Morning peak hour;90.99923722349351;6555;5965;12982.0
+2021-02;P;Ochtendspits;Pointe du matin;Morning peak hour;89.98923573735199;3716;3344;8361.0
+2021-03;IC;Avondspits;Pointe du soir;Evening peak hour;87.32435173113139;6903;6028;17278.0
+2021-03;IC;Daluren;Heures creuses;Off-peak hours;91.5884137532505;27688;25359;48724.0
+2021-03;L;Ochtendspits;Pointe du matin;Morning peak hour;94.59128065395095;7340;6943;9692.0
+2021-03;L;Avondspits;Pointe du soir;Evening peak hour;92.29047500621735;8042;7422;12455.0
+2021-03;L;Daluren;Heures creuses;Off-peak hours;94.45157802257215;29594;27952;39193.0
+2021-03;P;Ochtendspits;Pointe du matin;Morning peak hour;93.97645972767135;4333;4072;6350.0
+2021-03;P;Avondspits;Pointe du soir;Evening peak hour;90.50531914893617;3760;3403;7444.0
+2021-04;P;Ochtendspits;Pointe du matin;Morning peak hour;93.40452261306532;3184;2974;5132.0
+2021-05;IC;Weekends;Weekends;Weekends;95.22604473018261;14621;13923;15894.0
+2021-05;L;Ochtendspits;Pointe du matin;Morning peak hour;95.77639751552796;6440;6168;7409.0
+2021-05;L;Daluren;Heures creuses;Off-peak hours;95.08259700345755;26030;24750;31274.0
+2021-05;P;Ochtendspits;Pointe du matin;Morning peak hour;95.15561569688768;3695;3516;4629.0
+2021-05;P;Avondspits;Pointe du soir;Evening peak hour;90.96958174904944;3156;2871;5862.0
+2021-06;IC;Ochtendspits;Pointe du matin;Morning peak hour;92.84996651038178;5972;5545;9154.0
+2021-06;IC;Avondspits;Pointe du soir;Evening peak hour;85.9304084720121;6610;5680;18244.0
+2021-06;L;Daluren;Heures creuses;Off-peak hours;93.1431978535228;30189;28119;46151.0
+2021-06;P;Ochtendspits;Pointe du matin;Morning peak hour;93.23220536756126;4285;3995;6617.0
+2021-06;P;Avondspits;Pointe du soir;Evening peak hour;89.04930536638518;3671;3269;8203.0
+2021-06;P;Daluren;Heures creuses;Off-peak hours;90.5320813771518;1278;1157;2172.0
+2021-07;IC;Ochtendspits;Pointe du matin;Morning peak hour;95.37747635195431;5603;5344;6256.0
+2021-07;ICT;Weekends;Weekends;Weekends;91.71374764595103;531;487;922.0
+2021-07;ICT;Daluren;Heures creuses;Off-peak hours;88.39506172839506;405;358;936.0
+2021-07;L;Weekends;Weekends;Weekends;97.0396684428656;11823;11473;9770.0
+2021-07;P;Avondspits;Pointe du soir;Evening peak hour;91.67950693374422;1947;1785;3519.0
+2021-08;IC;Weekends;Weekends;Weekends;95.58387153080817;11458;10952;11925.0
+2021-08;ICT;Avondspits;Pointe du soir;Evening peak hour;96.22641509433963;159;153;112.0
+2021-08;ICT;Weekends;Weekends;Weekends;93.18181818181817;440;410;694.0
+2021-08;L;Ochtendspits;Pointe du matin;Morning peak hour;95.58517284464806;7203;6885;8166.0
+2021-08;L;Weekends;Weekends;Weekends;97.15398164457217;10787;10480;8667.0
+2021-08;L;Daluren;Heures creuses;Off-peak hours;94.74939509160042;28930;27411;33965.0
+2021-08;P;Ochtendspits;Pointe du matin;Morning peak hour;94.97674418604652;2150;2042;2747.0
+2021-08;P;Daluren;Heures creuses;Off-peak hours;94.24083769633508;764;720;1133.0
+2021-09;IC;Daluren;Heures creuses;Off-peak hours;90.22001261455127;26953;24317;55193.0
+2021-09;L;Avondspits;Pointe du soir;Evening peak hour;88.19913952059004;8135;7175;18656.0
+2021-09;L;Weekends;Weekends;Weekends;95.65307389774374;9662;9242;12279.0
+2021-09;P;Avondspits;Pointe du soir;Evening peak hour;88.50184083828944;3531;3125;8079.0
+2021-10;L;Avondspits;Pointe du soir;Evening peak hour;88.14213982232523;7767;6846;18239.0
+2021-10;L;Daluren;Heures creuses;Off-peak hours;91.2779117307894;28617;26121;53198.0
+2021-10;P;Weekends;Weekends;Weekends;70.96774193548387;62;44;358.0
+2021-11;IC;Avondspits;Pointe du soir;Evening peak hour;85.84714237402773;5914;5077;15679.0
+2021-11;ICT;Weekends;Weekends;Weekends;82.6923076923077;52;43;155.0
+2021-11;L;Avondspits;Pointe du soir;Evening peak hour;89.12896691424713;7405;6600;16338.0
+2021-11;P;Avondspits;Pointe du soir;Evening peak hour;88.23895457373989;3214;2836;7389.0
+2021-11;P;Weekends;Weekends;Weekends;64.44444444444444;90;58;559.0
+2021-12;IC;Ochtendspits;Pointe du matin;Morning peak hour;90.48550016291952;6138;5554;12093.0
+2021-12;IC;Avondspits;Pointe du soir;Evening peak hour;86.66763805915781;6863;5948;17815.0
+2021-12;IC;Weekends;Weekends;Weekends;95.666633074675;9923;9493;10352.0
+2021-12;L;Avondspits;Pointe du soir;Evening peak hour;90.97558098383863;8477;7712;15979.0
+2021-12;P;Avondspits;Pointe du soir;Evening peak hour;90.1899719713485;3211;2896;6519.0
+2022-01;IC;Ochtendspits;Pointe du matin;Morning peak hour;90.494025325486;5607;5074;11199.0
+2022-01;IC;Weekends;Weekends;Weekends;95.76271186440678;12154;11639;12135.0
+2022-01;P;Avondspits;Pointe du soir;Evening peak hour;91.25792459125792;2997;2735;5559.0
+2022-02;IC;Avondspits;Pointe du soir;Evening peak hour;84.38212094653812;5705;4814;19114.0
+2022-02;IC;Weekends;Weekends;Weekends;91.07312440645774;9477;8631;19456.0
+2022-02;INT;Daluren;Heures creuses;Off-peak hours;60.0;20;12;341.0
+2022-02;L;Avondspits;Pointe du soir;Evening peak hour;88.63237872589129;6844;6066;16738.0
+2022-03;IC;Ochtendspits;Pointe du matin;Morning peak hour;89.35305591677503;6152;5497;13555.0
+2022-03;IC;Avondspits;Pointe du soir;Evening peak hour;82.49523530274153;6821;5627;22304.0
+2022-03;IC;Weekends;Weekends;Weekends;93.40682414698162;9525;8897;13853.0
+2022-03;INT;Daluren;Heures creuses;Off-peak hours;54.166666666666664;24;13;740.0
+2022-03;L;Ochtendspits;Pointe du matin;Morning peak hour;91.73522338944437;7901;7248;14536.0
+2022-03;L;Weekends;Weekends;Weekends;95.77870480731029;10068;9643;11008.0
+2022-03;P;Ochtendspits;Pointe du matin;Morning peak hour;91.49845642365234;4211;3853;8214.0
+2022-04;IC;Avondspits;Pointe du soir;Evening peak hour;82.6146710187253;5821;4809;19419.0
+2022-04;IC;Weekends;Weekends;Weekends;92.77871621621621;11840;10985;18356.0
+2022-04;IC;Daluren;Heures creuses;Off-peak hours;87.82189521755677;23649;20769;58293.0
+2022-04;ICT;Weekends;Weekends;Weekends;85.88957055214725;163;140;411.0
+2022-04;INT;Daluren;Heures creuses;Off-peak hours;62.5;24;15;1073.0
+2022-04;P;Ochtendspits;Pointe du matin;Morning peak hour;91.56934306569343;2740;2509;5005.0
+2022-04;P;Daluren;Heures creuses;Off-peak hours;90.81632653061224;882;801;1694.0
+2022-05;IC;Ochtendspits;Pointe du matin;Morning peak hour;90.79428989751098;5464;4961;10491.0
+2022-05;IC;Weekends;Weekends;Weekends;92.89940828402366;12337;11461;18881.0
+2022-05;ICT;Avondspits;Pointe du soir;Evening peak hour;100.0;13;13;13.0
+2022-05;INT;Daluren;Heures creuses;Off-peak hours;50.0;26;13;993.0
+2022-05;L;Weekends;Weekends;Weekends;95.08746705008387;12519;11904;14712.0
+2022-05;P;Avondspits;Pointe du soir;Evening peak hour;86.13256113256114;3108;2677;8521.0
+2022-06;ICT;Avondspits;Pointe du soir;Evening peak hour;77.77777777777779;18;14;36.0
+2022-06;INT;Weekends;Weekends;Weekends;50.0;2;1;81.0
+2022-06;L;Weekends;Weekends;Weekends;93.8160433703942;10883;10210;15353.0
+2022-06;L;Daluren;Heures creuses;Off-peak hours;89.43214432144322;29268;26175;61553.0
+2022-06;P;Daluren;Heures creuses;Off-peak hours;88.92733564013841;1156;1028;2446.0
+2022-07;ICT;Avondspits;Pointe du soir;Evening peak hour;98.71794871794873;78;77;74.0
+2022-07;ICT;Weekends;Weekends;Weekends;93.15476190476191;336;313;477.0
+2022-07;L;Avondspits;Pointe du soir;Evening peak hour;90.146525070574;7439;6706;15165.0
+2022-07;L;Weekends;Weekends;Weekends;95.71624647836452;13843;13250;15446.0
+2022-07;P;Ochtendspits;Pointe du matin;Morning peak hour;93.95491803278688;1952;1834;3047.0
+2022-07;P;Avondspits;Pointe du soir;Evening peak hour;87.66197183098592;1775;1556;4320.0
+2022-07;P;Daluren;Heures creuses;Off-peak hours;91.92751235584844;607;558;931.0
+2022-08;IC;Ochtendspits;Pointe du matin;Morning peak hour;92.84624512629259;5899;5477;9171.0
+2022-08;IC;Avondspits;Pointe du soir;Evening peak hour;86.49567367119901;6472;5598;17249.0
+2022-08;IC;Daluren;Heures creuses;Off-peak hours;89.29844520288206;26370;23548;58353.0
+2022-08;ICT;Weekends;Weekends;Weekends;96.65551839464884;299;289;312.0
+2022-08;L;Weekends;Weekends;Weekends;94.5234189903408;10974;10373;14358.0
+2022-08;P;Daluren;Heures creuses;Off-peak hours;91.92364170337738;681;626;1176.0
+2022-09;ICT;Daluren;Heures creuses;Off-peak hours;100.0;3;3;2.0
+2022-09;L;Ochtendspits;Pointe du matin;Morning peak hour;88.66237011705906;7603;6741;18143.0
+2022-09;L;Avondspits;Pointe du soir;Evening peak hour;85.05111244738424;8315;7072;22941.0
+2022-09;P;Avondspits;Pointe du soir;Evening peak hour;84.68547912992358;3402;2881;9533.0
+2022-09;P;Weekends;Weekends;Weekends;74.07407407407408;27;20;144.0
+2022-10;IC;Ochtendspits;Pointe du matin;Morning peak hour;83.0001833852925;5453;4526;16869.0
+2022-10;INT;Daluren;Heures creuses;Off-peak hours;45.83333333333333;24;11;629.0
+2022-11;ICT;Avondspits;Pointe du soir;Evening peak hour;83.33333333333334;6;5;23.0
+2022-11;ICT;Weekends;Weekends;Weekends;82.14285714285714;56;46;156.0
+2022-11;ICT;Daluren;Heures creuses;Off-peak hours;80.0;10;8;16.0
+2022-11;L;Ochtendspits;Pointe du matin;Morning peak hour;82.96333669693911;5946;4933;17895.0
+2022-11;L;Avondspits;Pointe du soir;Evening peak hour;79.65620328849027;6690;5329;23584.0
+2022-11;P;Avondspits;Pointe du soir;Evening peak hour;78.88805409466566;2662;2100;9139.0
+2022-12;IC;Ochtendspits;Pointe du matin;Morning peak hour;81.85526782547002;5638;4615;18732.0
+2022-12;IC;Daluren;Heures creuses;Off-peak hours;81.88898553016526;25294;20713;87405.0
+2022-12;L;Daluren;Heures creuses;Off-peak hours;85.81643580089123;28949;24843;78472.0
+2022-12;P;Weekends;Weekends;Weekends;72.72727272727273;44;32;186.0
+2023-01;IC;Avondspits;Pointe du soir;Evening peak hour;82.05523838913747;6481;5318;20760.0
+2023-01;L;Ochtendspits;Pointe du matin;Morning peak hour;88.07170159483326;7587;6682;17463.0
+2023-01;L;Daluren;Heures creuses;Off-peak hours;90.28278984318614;30482;27520;58859.0
+2023-01;P;Weekends;Weekends;Weekends;79.41176470588235;68;54;248.0
+2023-01;P;Daluren;Heures creuses;Off-peak hours;87.7840909090909;1056;927;2548.0
+2023-02;IC;Ochtendspits;Pointe du matin;Morning peak hour;83.66526235158943;5222;4369;16558.0
+2023-02;INT;Daluren;Heures creuses;Off-peak hours;50.0;22;11;548.0
+2023-02;L;Weekends;Weekends;Weekends;95.63901930099114;9585;9167;11806.0
+2023-02;P;Weekends;Weekends;Weekends;68.42105263157895;57;39;325.0
+2023-03;IC;Ochtendspits;Pointe du matin;Morning peak hour;87.5188726723704;5961;5217;14370.0
+2023-03;P;Ochtendspits;Pointe du matin;Morning peak hour;89.57508577461071;3789;3394;8138.0
+2023-03;P;Avondspits;Pointe du soir;Evening peak hour;84.60351743289108;3241;2742;8972.0
+2023-03;P;Weekends;Weekends;Weekends;61.29032258064516;62;38;385.0
+2023-03;P;Daluren;Heures creuses;Off-peak hours;85.58333333333333;1200;1027;3394.0
+2023-04;IC;Weekends;Weekends;Weekends;91.99838078531913;14822;13636;25387.0
+2023-04;IC;Daluren;Heures creuses;Off-peak hours;84.41833590138675;20768;17532;63497.0
+2023-04;L;Ochtendspits;Pointe du matin;Morning peak hour;90.13891270794032;5831;5256;12006.0
+2023-04;L;Weekends;Weekends;Weekends;93.93036801694467;15108;14191;20946.0
+2023-04;L;Daluren;Heures creuses;Off-peak hours;89.43367216195439;23414;20940;49285.0
+2023-04;P;Ochtendspits;Pointe du matin;Morning peak hour;89.14405010438414;2395;2135;5477.0
+2023-04;P;Weekends;Weekends;Weekends;87.06467661691542;402;350;985.0
+2023-04;P;Daluren;Heures creuses;Off-peak hours;87.40053050397879;754;659;2011.0
+2023-05;IC;Daluren;Heures creuses;Off-peak hours;83.64693665628245;24075;20138;75614.0
+2023-05;INT;Daluren;Heures creuses;Off-peak hours;50.0;30;15;854.0
+2023-05;L;Daluren;Heures creuses;Off-peak hours;89.11767961917414;27099;24150;57201.0
+2023-05;P;Ochtendspits;Pointe du matin;Morning peak hour;90.42207792207793;3080;2785;6691.0
+2023-05;P;Avondspits;Pointe du soir;Evening peak hour;81.81818181818183;2728;2232;8662.0
+2023-05;P;Weekends;Weekends;Weekends;84.34579439252336;428;361;1137.0
+2023-05;P;Daluren;Heures creuses;Off-peak hours;88.85480572597137;978;869;2465.0
+2023-06;IC;Daluren;Heures creuses;Off-peak hours;83.95012228860111;24941;20938;75062.0
+2023-06;INT;Weekends;Weekends;Weekends;50.0;2;1;6.0
+2023-06;L;Weekends;Weekends;Weekends;92.6350818810754;11419;10578;19028.0
+2023-07;L;Weekends;Weekends;Weekends;95.2042758822668;13658;13003;16817.0
+2023-07;P;Ochtendspits;Pointe du matin;Morning peak hour;95.34198113207547;1696;1617;2193.0
+2023-07;P;Daluren;Heures creuses;Off-peak hours;93.14814814814815;540;503;845.0
+2023-08;L;Avondspits;Pointe du soir;Evening peak hour;90.56099732858415;7861;7119;15604.0
+2023-08;P;Avondspits;Pointe du soir;Evening peak hour;88.15455007625826;1967;1734;4606.0
+2023-08;P;Weekends;Weekends;Weekends;100.0;3;3;1.0
+2023-08;P;Daluren;Heures creuses;Off-peak hours;90.0;630;567;1321.0
+2023-09;IC;Ochtendspits;Pointe du matin;Morning peak hour;87.12241653418124;5661;4932;13873.0
+2023-09;IC;Weekends;Weekends;Weekends;89.70574584609672;10773;9664;23605.0
+2023-09;IC;Daluren;Heures creuses;Off-peak hours;83.83538064314216;25562;21430;76766.0
+2023-09;INT;Daluren;Heures creuses;Off-peak hours;61.53846153846154;52;32;887.0
+2023-09;L;Ochtendspits;Pointe du matin;Morning peak hour;89.14783097009686;7123;6350;15289.0
+2023-09;L;Weekends;Weekends;Weekends;93.77623653951451;10958;10276;16712.0
+2023-09;P;Ochtendspits;Pointe du matin;Morning peak hour;90.2645214071448;3667;3310;7944.0
+2023-09;P;Daluren;Heures creuses;Off-peak hours;83.95303326810176;1022;858;3198.0
+2023-10;IC;Ochtendspits;Pointe du matin;Morning peak hour;83.00273597811217;5848;4854;17538.0
+2023-10;IC;Daluren;Heures creuses;Off-peak hours;82.16208077690368;26567;21828;85962.0
+2023-10;L;Ochtendspits;Pointe du matin;Morning peak hour;85.9860664523044;7464;6418;19419.0
+2023-10;L;Daluren;Heures creuses;Off-peak hours;87.65293255631667;29343;25720;69591.0
+2023-10;P;Weekends;Weekends;Weekends;54.166666666666664;72;39;585.0
+2023-11;IC;Ochtendspits;Pointe du matin;Morning peak hour;76.93978282329714;5065;3897;18974.0
+2023-11;IC;Weekends;Weekends;Weekends;91.19113573407202;10830;9876;19825.0
+2023-11;INT;Daluren;Heures creuses;Off-peak hours;50.0;36;18;1333.0
+2023-11;P;Ochtendspits;Pointe du matin;Morning peak hour;82.58785942492013;3130;2585;9824.0
+2023-11;P;Weekends;Weekends;Weekends;67.85714285714286;56;38;245.0
+2023-12;L;Weekends;Weekends;Weekends;94.35690983549664;14407;13594;19790.0
+2024-01;IC;Ochtendspits;Pointe du matin;Morning peak hour;82.6311263972485;5815;4805;18773.0
+2024-01;IC;Weekends;Weekends;Weekends;93.91040382669487;10871;10209;15661.0
+2024-01;L;Avondspits;Pointe du soir;Evening peak hour;83.71516296646197;8468;7089;27063.0
+2024-01;L;Weekends;Weekends;Weekends;95.16369047619048;12096;11511;14775.0
+2024-01;L;Daluren;Heures creuses;Off-peak hours;88.59761629180092;31967;28322;72927.0
+2024-01;P;Ochtendspits;Pointe du matin;Morning peak hour;83.76068376068376;3042;2548;9995.0
+2024-02;IC;Daluren;Heures creuses;Off-peak hours;84.70046445721484;25406;21519;72036.0
+2024-02;L;Ochtendspits;Pointe du matin;Morning peak hour;89.95127090741472;7593;6830;15655.0
+2024-02;L;Daluren;Heures creuses;Off-peak hours;90.93718811371173;31061;28246;57713.0
+2024-02;P;Weekends;Weekends;Weekends;65.45454545454545;55;36;343.0
+2024-03;IC;Daluren;Heures creuses;Off-peak hours;86.55973017491569;25498;22071;66390.0
+2024-03;L;Weekends;Weekends;Weekends;95.55607622617931;12804;12235;14218.0
+2024-03;P;Daluren;Heures creuses;Off-peak hours;87.91574279379158;902;793;2362.0
+2024-04;IC;Weekends;Weekends;Weekends;91.88403077500469;10658;9793;17690.0
+2024-04;IC;Daluren;Heures creuses;Off-peak hours;86.62609113478017;24974;21634;63034.0
+2024-04;L;Ochtendspits;Pointe du matin;Morning peak hour;91.92862045298558;7285;6697;12565.0
+2024-04;L;Weekends;Weekends;Weekends;95.7223496207444;11338;10853;12310.0
+2024-04;P;Ochtendspits;Pointe du matin;Morning peak hour;91.69701383831027;2746;2518;4976.0
+2024-05;P;Ochtendspits;Pointe du matin;Morning peak hour;91.8004783054322;2927;2687;5473.0
+2024-05;P;Avondspits;Pointe du soir;Evening peak hour;84.5223700120919;2481;2097;7126.0
+2016-01;IC;Daluren;Heures creuses;Off-peak hours;88.72514130207243;23885;21192;58004.0
+2016-01;L;Ochtendspits;Pointe du matin;Morning peak hour;88.80952380952381;2940;2611;6952.0
+2016-01;L;Weekends;Weekends;Weekends;96.2340089118873;6957;6695;6505.0
+2016-01;P;Weekends;Weekends;Weekends;77.77777777777779;9;7;29.0
+2016-01;P;Daluren;Heures creuses;Off-peak hours;85.62300319488818;939;804;2312.0
+2016-02;IC;Avondspits;Pointe du soir;Evening peak hour;86.69070151719994;6657;5771;18033.0
+2016-02;L;Ochtendspits;Pointe du matin;Morning peak hour;91.83856502242152;3345;3072;6385.0
+2016-02;L;Avondspits;Pointe du soir;Evening peak hour;91.93224231983922;3483;3202;6163.0
+2016-02;L;Daluren;Heures creuses;Off-peak hours;93.609346820356;12753;11938;18332.0
+2016-02;S;Daluren;Heures creuses;Off-peak hours;94.68774548311076;10184;9643;14043.0
+2016-03;L;Daluren;Heures creuses;Off-peak hours;91.798494854861;13022;11954;21478.0
+2016-03;S;Daluren;Heures creuses;Off-peak hours;93.85820678982493;10339;9704;15952.0
+2016-04;IC;Ochtendspits;Pointe du matin;Morning peak hour;87.23944172557549;5517;4813;14588.0
+2016-04;IC;Avondspits;Pointe du soir;Evening peak hour;87.43869640879608;6321;5527;16053.0
+2016-04;L;Daluren;Heures creuses;Off-peak hours;91.53163423174009;12281;11241;21129.0
+2016-04;P;Weekends;Weekends;Weekends;100.0;13;13;9.0
+2016-04;S;Ochtendspits;Pointe du matin;Morning peak hour;89.75778546712803;2890;2594;6383.0
+2016-05;IC;Avondspits;Pointe du soir;Evening peak hour;80.66185986319098;5409;4363;21086.0
+2016-05;IC;Weekends;Weekends;Weekends;89.53176488619818;13049;11683;27790.0
+2016-05;L;Ochtendspits;Pointe du matin;Morning peak hour;93.37239106554375;2731;2550;4330.0
+2016-05;L;Avondspits;Pointe du soir;Evening peak hour;84.95412844036697;2725;2315;7796.0
+2016-05;L;Weekends;Weekends;Weekends;95.3127499600064;6251;5958;7398.0
+2016-05;S;Daluren;Heures creuses;Off-peak hours;92.10820201017495;8059;7423;15248.0
+2016-06;IC;Ochtendspits;Pointe du matin;Morning peak hour;84.15436599679886;5623;4732;17915.0
+2016-06;IC;Avondspits;Pointe du soir;Evening peak hour;79.98413957176844;6305;5043;25424.0
+2016-06;P;Ochtendspits;Pointe du matin;Morning peak hour;87.29058347775852;3462;3022;9588.0
+2016-06;S;Ochtendspits;Pointe du matin;Morning peak hour;89.47368421052632;2793;2499;7310.0
+2016-06;S;Avondspits;Pointe du soir;Evening peak hour;83.51791530944625;3070;2564;9654.0
+2016-07;IC;Weekends;Weekends;Weekends;94.66791393826006;13897;13156;17714.0
+2016-07;L;Ochtendspits;Pointe du matin;Morning peak hour;94.5669046879851;3221;3046;4249.0
+2016-07;L;Avondspits;Pointe du soir;Evening peak hour;91.46933819064967;3294;3013;6256.0
+2016-07;L;Weekends;Weekends;Weekends;96.34111617312074;7024;6767;6807.0
+2016-07;P;Ochtendspits;Pointe du matin;Morning peak hour;92.11099020674646;1838;1693;3123.0
+2016-07;S;Ochtendspits;Pointe du matin;Morning peak hour;96.33360193392426;2482;2391;3107.0
+2016-07;S;Daluren;Heures creuses;Off-peak hours;95.31914893617022;8930;8512;11288.0
+2016-08;IC;Avondspits;Pointe du soir;Evening peak hour;86.30317205086976;6841;5904;18653.0
+2016-08;IC;Daluren;Heures creuses;Off-peak hours;90.18734251177737;27383;24696;56718.0
+2016-08;L;Ochtendspits;Pointe du matin;Morning peak hour;94.3800695249131;3452;3258;4736.0
+2016-08;L;Avondspits;Pointe du soir;Evening peak hour;91.70182841068917;3555;3260;6324.0
+2016-08;P;Weekends;Weekends;Weekends;100.0;4;4;0.0
+2016-08;P;Daluren;Heures creuses;Off-peak hours;81.67832167832168;715;584;2346.0
+2016-08;S;Ochtendspits;Pointe du matin;Morning peak hour;92.70571325907294;2783;2580;5259.0
+2016-09;IC;Avondspits;Pointe du soir;Evening peak hour;87.36524363949978;6957;6078;17486.0
+2016-09;IC;Weekends;Weekends;Weekends;87.28105906313645;9820;8571;23215.0
+2016-09;IC;Daluren;Heures creuses;Off-peak hours;89.48867734025674;27732;24817;61985.0
+2016-09;L;Weekends;Weekends;Weekends;93.26456310679612;4944;4611;7132.0
+2016-09;P;Weekends;Weekends;Weekends;60.0;10;6;62.0
+2016-09;S;Avondspits;Pointe du soir;Evening peak hour;89.6783625730994;3420;3067;7360.0
+2016-09;S;Weekends;Weekends;Weekends;95.40972458347501;2941;2806;3573.0
+2016-09;S;Daluren;Heures creuses;Off-peak hours;93.86354851178972;10348;9713;15765.0
+2016-10;IC;Ochtendspits;Pointe du matin;Morning peak hour;81.08387987573352;5794;4698;19164.0
+2016-10;IC;Weekends;Weekends;Weekends;87.7322808748561;12162;10670;28639.0
+2016-10;L;Daluren;Heures creuses;Off-peak hours;89.08600077130735;12965;11550;26110.0
+2016-10;P;Weekends;Weekends;Weekends;83.33333333333334;18;15;70.0
+2016-10;S;Avondspits;Pointe du soir;Evening peak hour;80.16581632653062;3136;2514;12560.0
+2016-11;IC;Ochtendspits;Pointe du matin;Morning peak hour;72.09653092006033;5304;3824;25714.0
+2016-11;IC;Daluren;Heures creuses;Off-peak hours;79.62698445088357;24503;19511;97845.0
+2016-11;L;Ochtendspits;Pointe du matin;Morning peak hour;81.64556962025317;3160;2580;10761.0
+2016-11;L;Avondspits;Pointe du soir;Evening peak hour;82.49774842389674;3331;2748;10468.0
+2016-11;L;Daluren;Heures creuses;Off-peak hours;86.4755097067663;12311;10646;30230.0
+2016-11;P;Daluren;Heures creuses;Off-peak hours;80.26584867075664;978;785;3630.0
+2016-11;S;Daluren;Heures creuses;Off-peak hours;85.9262444898398;9301;7992;25840.0
+2016-12;L;Ochtendspits;Pointe du matin;Morning peak hour;89.22511312217195;3536;3155;7495.0
+2016-12;L;Avondspits;Pointe du soir;Evening peak hour;89.38730853391685;3656;3268;7590.0
+2016-12;P;Daluren;Heures creuses;Off-peak hours;85.56304138594803;1039;889;2748.0
+2016-12;S;Ochtendspits;Pointe du matin;Morning peak hour;87.19262295081968;2928;2553;7725.0
+2017-01;IC;Avondspits;Pointe du soir;Evening peak hour;86.82862578662373;6833;5933;17637.0
+2017-01;P;Ochtendspits;Pointe du matin;Morning peak hour;86.16852146263912;3774;3252;9836.0
+2017-01;P;Daluren;Heures creuses;Off-peak hours;87.73234200743495;1076;944;2485.0
+2017-01;S;Ochtendspits;Pointe du matin;Morning peak hour;86.56766790415121;2963;2565;7827.0
+2017-01;S;Avondspits;Pointe du soir;Evening peak hour;86.472550803761;3297;2851;8573.0
+2017-02;L;Daluren;Heures creuses;Off-peak hours;91.71226901419621;12609;11564;20897.0
+2017-02;P;Avondspits;Pointe du soir;Evening peak hour;84.04196576477084;3622;3044;9957.0
+2017-02;S;Ochtendspits;Pointe du matin;Morning peak hour;90.56535830032409;2777;2515;5683.0
+2017-02;S;Avondspits;Pointe du soir;Evening peak hour;84.84748010610079;3016;2559;9179.0
+2017-03;IC;Weekends;Weekends;Weekends;88.4278094204864;11061;9781;24246.0
+2017-03;L;Ochtendspits;Pointe du matin;Morning peak hour;91.50537634408602;3720;3404;6291.0
+2017-03;L;Avondspits;Pointe du soir;Evening peak hour;90.63885267275099;3835;3476;7222.0
+2017-03;L;Weekends;Weekends;Weekends;94.48209099709584;5165;4880;6034.0
+2017-03;L;Daluren;Heures creuses;Off-peak hours;92.30502359145156;14412;13303;22357.0
+2017-03;P;Avondspits;Pointe du soir;Evening peak hour;85.14992860542598;4202;3578;11177.0
+2017-03;S;Ochtendspits;Pointe du matin;Morning peak hour;89.25307280176489;3173;2832;6762.0
+2017-03;S;Daluren;Heures creuses;Off-peak hours;92.38973246565438;11064;10222;19541.0
+2017-04;IC;Ochtendspits;Pointe du matin;Morning peak hour;89.86656352736415;5171;4647;10361.0
+2017-04;IC;Weekends;Weekends;Weekends;92.44972446861804;13973;12918;25203.0
+2017-04;IC;Daluren;Heures creuses;Off-peak hours;91.5526055408971;24256;22207;44202.0
+2017-04;L;Avondspits;Pointe du soir;Evening peak hour;92.29323308270678;3192;2946;5110.0
+2017-05;IC;Ochtendspits;Pointe du matin;Morning peak hour;85.52400981423064;5706;4880;15417.0
+2017-05;L;Ochtendspits;Pointe du matin;Morning peak hour;91.83372641509435;3392;3115;5605.0
+2017-05;L;Weekends;Weekends;Weekends;94.76367006487489;6474;6135;7191.0
+2017-05;L;Daluren;Heures creuses;Off-peak hours;88.59147410966217;13113;11617;27218.0
+2017-05;P;Daluren;Heures creuses;Off-peak hours;84.63611859838275;1113;942;3273.0
+2017-05;S;Ochtendspits;Pointe du matin;Morning peak hour;90.8780321147933;2927;2660;5963.0
+2017-05;S;Weekends;Weekends;Weekends;87.96191339832238;4411;3880;9266.0
+2017-06;L;Weekends;Weekends;Weekends;95.25354276933584;5857;5579;6429.0
+2017-06;L;Daluren;Heures creuses;Off-peak hours;89.16845658177354;13036;11624;27500.0
+2017-06;P;Ochtendspits;Pointe du matin;Morning peak hour;89.91163475699558;4074;3663;8178.0
+2017-06;P;Weekends;Weekends;Weekends;100.0;6;6;10.0
+2017-06;P;Daluren;Heures creuses;Off-peak hours;83.34833483348335;1111;926;3531.0
+2017-06;S;Ochtendspits;Pointe du matin;Morning peak hour;92.43353783231085;2934;2712;5269.0
+2017-06;S;Avondspits;Pointe du soir;Evening peak hour;82.58845437616388;3222;2661;10409.0
+2017-07;IC;Ochtendspits;Pointe du matin;Morning peak hour;90.86080586080585;5460;4961;9966.0
+2017-07;IC;Weekends;Weekends;Weekends;93.64980220695399;14409;13494;18817.0
+2017-07;L;Ochtendspits;Pointe du matin;Morning peak hour;93.95910780669145;3228;3033;4679.0
+2017-07;P;Weekends;Weekends;Weekends;90.0;10;9;25.0
+2017-07;P;Daluren;Heures creuses;Off-peak hours;91.00294985250737;678;617;1220.0
+2017-07;S;Ochtendspits;Pointe du matin;Morning peak hour;95.4054054054054;2590;2471;3273.0
+2017-07;S;Daluren;Heures creuses;Off-peak hours;95.21282356763781;9233;8791;11760.0
+2017-08;IC;Ochtendspits;Pointe du matin;Morning peak hour;92.44562510376889;6023;5568;9431.0
+2017-08;IC;Weekends;Weekends;Weekends;93.33562941277769;11614;10840;16882.0
+2017-08;L;Ochtendspits;Pointe du matin;Morning peak hour;95.82172701949861;3590;3440;3576.0
+2017-08;L;Daluren;Heures creuses;Off-peak hours;94.84731433568982;13721;13014;15242.0
+2017-08;P;Ochtendspits;Pointe du matin;Morning peak hour;91.53339604891816;2126;1946;3498.0
+2017-08;P;Avondspits;Pointe du soir;Evening peak hour;88.20171265461465;2102;1854;4636.0
+2017-08;S;Weekends;Weekends;Weekends;95.20665901262916;3484;3317;4535.0
+2017-08;S;Daluren;Heures creuses;Off-peak hours;94.98970487302677;10199;9688;13439.0
+2017-09;L;Avondspits;Pointe du soir;Evening peak hour;86.68384879725086;3492;3027;8137.0
+2017-09;L;Daluren;Heures creuses;Off-peak hours;90.90631442315033;13097;11906;23213.0
+2017-09;P;Weekends;Weekends;Weekends;85.71428571428571;7;6;19.0
+2017-09;S;Ochtendspits;Pointe du matin;Morning peak hour;85.89524135570011;2921;2509;8069.0
+2017-10;IC;Weekends;Weekends;Weekends;84.11416262789444;11142;9372;33104.0
+2017-10;S;Avondspits;Pointe du soir;Evening peak hour;79.76792621243678;3361;2681;12293.0
+2017-10;S;Daluren;Heures creuses;Off-peak hours;87.94326241134752;10716;9424;25857.0
+2017-11;IC;Avondspits;Pointe du soir;Evening peak hour;71.98786039453718;6590;4744;32908.0
+2017-11;L;Ochtendspits;Pointe du matin;Morning peak hour;84.1246290801187;3370;2835;10167.0
+2017-11;L;Weekends;Weekends;Weekends;90.0208986415883;5742;5169;10933.0
+2017-11;S;Avondspits;Pointe du soir;Evening peak hour;74.68740469655383;3279;2449;14625.0
+2017-11;S;Weekends;Weekends;Weekends;92.65683723619543;3459;3205;5938.0
+2017-12;IC;Ochtendspits;Pointe du matin;Morning peak hour;80.31156156156156;5328;4279;18498.0
+2017-12;IC;Weekends;Weekends;Weekends;93.15793236576822;13987;13030;20032.0
+2017-12;IC;Daluren;Heures creuses;Off-peak hours;82.69667648296172;23770;19657;81779.0
+2017-12;L;Ochtendspits;Pointe du matin;Morning peak hour;87.98155181768855;3686;3243;8518.0
+2017-12;L;Weekends;Weekends;Weekends;94.80191773908655;7926;7514;9789.0
+2017-12;S;Ochtendspits;Pointe du matin;Morning peak hour;84.02974504249292;2824;2373;8255.0
+2017-12;S;Weekends;Weekends;Weekends;96.00617828773169;4532;4351;5064.0
+2017-12;S;Daluren;Heures creuses;Off-peak hours;88.93099321898684;10028;8918;22788.0
+2018-01;IC;Weekends;Weekends;Weekends;92.2067698766728;11433;10542;17422.0
+2018-01;P;Avondspits;Pointe du soir;Evening peak hour;82.83309957924264;3565;2953;10315.0
+2018-01;P;Weekends;Weekends;Weekends;68.75;64;44;363.0
+2018-02;IC;Weekends;Weekends;Weekends;88.21690278456278;10235;9029;22494.0
+2018-02;IC;Daluren;Heures creuses;Off-peak hours;85.1715218589662;23583;20086;67023.0
+2018-02;L;Ochtendspits;Pointe du matin;Morning peak hour;86.38911128903123;3747;3237;10100.0
+2018-02;P;Daluren;Heures creuses;Off-peak hours;85.14090520922288;1171;997;3108.0
+2018-03;L;Weekends;Weekends;Weekends;94.70139200718455;6681;6327;7683.0
+2018-03;P;Ochtendspits;Pointe du matin;Morning peak hour;87.85956964892412;4415;3879;9846.0
+2018-03;P;Avondspits;Pointe du soir;Evening peak hour;83.93039918116683;3908;3280;11154.0
+2018-03;P;Daluren;Heures creuses;Off-peak hours;85.76864535768645;1314;1127;3454.0
+2018-03;S;Ochtendspits;Pointe du matin;Morning peak hour;88.67983693947946;3189;2828;7348.0
+2018-04;IC;Avondspits;Pointe du soir;Evening peak hour;80.3214224653787;5849;4698;21067.0
+2018-04;IC;Weekends;Weekends;Weekends;89.9500673694222;12617;11349;24415.0
+2018-04;L;Weekends;Weekends;Weekends;94.63114205382247;7469;7068;9104.0
+2018-04;L;Daluren;Heures creuses;Off-peak hours;91.29937761971294;15746;14376;27085.0
+2018-04;S;Avondspits;Pointe du soir;Evening peak hour;83.65384615384616;3016;2523;8950.0
+2018-04;S;Weekends;Weekends;Weekends;93.75903614457832;4150;3891;5909.0
+2018-05;IC;Ochtendspits;Pointe du matin;Morning peak hour;82.10124164278892;5235;4298;16113.0
+2018-05;IC;Avondspits;Pointe du soir;Evening peak hour;76.16259042369961;5806;4422;26074.0
+2018-05;L;Avondspits;Pointe du soir;Evening peak hour;85.11281693417074;4299;3659;11367.0
+2018-05;S;Avondspits;Pointe du soir;Evening peak hour;81.33033419023135;3112;2531;10960.0
+2018-06;L;Avondspits;Pointe du soir;Evening peak hour;79.84972677595628;4392;3507;14606.0
+2018-06;P;Ochtendspits;Pointe du matin;Morning peak hour;87.26497869140135;3989;3481;9433.0
+2018-06;P;Avondspits;Pointe du soir;Evening peak hour;80.05689900426742;3515;2814;12440.0
+2018-06;P;Weekends;Weekends;Weekends;72.72727272727273;44;32;267.0
+2018-06;P;Daluren;Heures creuses;Off-peak hours;82.27236099919419;1241;1021;3864.0
+2018-06;S;Ochtendspits;Pointe du matin;Morning peak hour;89.79454361737959;2969;2666;6249.0
+2018-06;S;Avondspits;Pointe du soir;Evening peak hour;80.02528445006321;3164;2532;11801.0
+2018-06;S;Daluren;Heures creuses;Off-peak hours;88.85990338164251;10350;9197;23759.0
+2018-07;L;Ochtendspits;Pointe du matin;Morning peak hour;93.13893653516296;4081;3801;5907.0
+2018-07;P;Ochtendspits;Pointe du matin;Morning peak hour;90.69175991861648;1966;1783;4180.0
+2018-07;P;Avondspits;Pointe du soir;Evening peak hour;79.18781725888326;1773;1404;6272.0
+2018-07;S;Weekends;Weekends;Weekends;94.78921183555904;3819;3620;5014.0
+2018-08;IC;Ochtendspits;Pointe du matin;Morning peak hour;91.7003367003367;5940;5447;10843.0
+2018-08;IC;Avondspits;Pointe du soir;Evening peak hour;86.17861482381531;6584;5674;17671.0
+2018-08;L;Ochtendspits;Pointe du matin;Morning peak hour;92.93916442707061;4093;3804;6117.0
