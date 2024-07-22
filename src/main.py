@@ -164,73 +164,78 @@ df_errors_incid = CompareModelIncid.results
 # =============================================================================
 #  GridsearchCV for Random forest model
 # =============================================================================
-# Grid search For the incident data
-rf_model = RandomForestRegressor(random_state=42)
-
-parameters = [{"n_estimators":[10,50,100,150,200, 250, 500, 1000], 'max_depth': [5, 10, 15, 20, 30, 50, None]}]
-grid_bag_incid = GridSearchCV(estimator=rf_model, param_grid=parameters, cv=3, scoring='neg_mean_absolute_error')
-
-grid_incid = grid_bag_incid.fit(X_train_incid, y_train_incid)
-
-# Get the best score
-print(f"the best score for incident data is {grid_incid.best_score_}")
-
-# Get the best params
-print(f"the best parameters for the incident data are {grid_incid.best_params_}")
-
-
-
-# Grid search For the train type data
-rf_model_tr_type = RandomForestRegressor(random_state=42)
-
-parameters = [{"n_estimators":[10,50,100,150,200, 250, 500, 1000], 'max_depth': [5, 10, 15, 20, 30, 50, None]}]
-grid_bag_tr_type = GridSearchCV(estimator=rf_model_tr_type, param_grid=parameters, cv=3, scoring='neg_mean_absolute_error')
-
-grid_tr_type = grid_bag_tr_type.fit(X_train_tr_type_sc, y_train_tr_type)
-
-# Get the best score
-print(f"the best score for train type data is {grid_tr_type.best_score_}")
-
-# Get the best params
-print(f"the best parameters for the train type data are {grid_tr_type.best_params_}")
+run_grid_rf = False
+if run_grid_rf:
+    
+    # Grid search For the incident data
+    rf_model = RandomForestRegressor(random_state=42)
+    
+    parameters = [{"n_estimators":[10,50,100,150,200, 250, 500, 1000], 'max_depth': [5, 10, 15, 20, 30, 50, None]}]
+    grid_bag_incid = GridSearchCV(estimator=rf_model, param_grid=parameters, cv=3, scoring='neg_mean_absolute_error')
+    
+    grid_incid = grid_bag_incid.fit(X_train_incid, y_train_incid)
+    
+    # Get the best score
+    print(f"the best score for incident data is {grid_incid.best_score_}")
+    
+    # Get the best params
+    print(f"the best parameters for the incident data are {grid_incid.best_params_}")
+    
+    
+    
+    # Grid search For the train type data
+    rf_model_tr_type = RandomForestRegressor(random_state=42)
+    
+    parameters = [{"n_estimators":[10,50,100,150,200, 250, 500, 1000], 'max_depth': [5, 10, 15, 20, 30, 50, None]}]
+    grid_bag_tr_type = GridSearchCV(estimator=rf_model_tr_type, param_grid=parameters, cv=3, scoring='neg_mean_absolute_error')
+    
+    grid_tr_type = grid_bag_tr_type.fit(X_train_tr_type_sc, y_train_tr_type)
+    
+    # Get the best score
+    print(f"the best score for train type data is {grid_tr_type.best_score_}")
+    
+    # Get the best params
+    print(f"the best parameters for the train type data are {grid_tr_type.best_params_}")
 
 
 # =============================================================================
 #  GridsearchCV for XGBoost model
 # =============================================================================
-
-param_grid = {"n_estimators":[10,50,100,150,200, 250, 500, 1000], 
-              'max_depth': [5, 10, 15, 20, 30, 50, None],
-              'learning_rate': [0.01, 0.05, 0.1]}
-
-# Model XGBoost for incident data
-xgb_model_incid = XGBRegressor(objective='reg:absoluteerror', random_state=42)
-
-grid_search_incid = GridSearchCV(estimator=xgb_model_incid, param_grid=param_grid, 
-                           scoring='neg_mean_absolute_error', cv=3, verbose=1)
-
-# Fit the grid search to the data
-grid_xgb_incid = grid_search_incid.fit(X_train_incid, y_train_incid)
-
-# Get the best score
-print(f"the best score for incident data is {grid_xgb_incid.best_score_}")
-
-# Get the best params
-print(f"the best parameters for the incident data are {grid_xgb_incid.best_params_}")
-
-
-
-# Model XGBoost for train type data
-xgb_model_tr_type = XGBRegressor(objective='reg:absoluteerror', random_state=42)
-
-grid_search_tr_type = GridSearchCV(estimator=xgb_model_tr_type, param_grid=param_grid, 
-                           scoring='neg_mean_absolute_error', cv=3, verbose=1)
-
-# Fit the grid search to the data
-grid_xgb_tr_type = grid_search_tr_type.fit(X_train_tr_type_sc, y_train_tr_type)
-
-# Get the best score
-print(f"the best score for train type data is {grid_xgb_tr_type.best_score_}")
-
-# Get the best params
-print(f"the best parameters for the train type data are {grid_xgb_tr_type.best_params_}")
+run_grid_xgb = False
+if run_grid_xgb:
+    
+    param_grid = {"n_estimators":[10,50,100,150,200, 250, 500, 1000], 
+                  'max_depth': [5, 10, 15, 20, 30, 50, None],
+                  'learning_rate': [0.01, 0.05, 0.1]}
+    
+    # Model XGBoost for incident data
+    xgb_model_incid = XGBRegressor(objective='reg:absoluteerror', random_state=42)
+    
+    grid_search_incid = GridSearchCV(estimator=xgb_model_incid, param_grid=param_grid, 
+                               scoring='neg_mean_absolute_error', cv=3, verbose=1)
+    
+    # Fit the grid search to the data
+    grid_xgb_incid = grid_search_incid.fit(X_train_incid, y_train_incid)
+    
+    # Get the best score
+    print(f"the best score for incident data is {grid_xgb_incid.best_score_}")
+    
+    # Get the best params
+    print(f"the best parameters for the incident data are {grid_xgb_incid.best_params_}")
+    
+    
+    
+    # Model XGBoost for train type data
+    xgb_model_tr_type = XGBRegressor(objective='reg:absoluteerror', random_state=42)
+    
+    grid_search_tr_type = GridSearchCV(estimator=xgb_model_tr_type, param_grid=param_grid, 
+                               scoring='neg_mean_absolute_error', cv=3, verbose=1)
+    
+    # Fit the grid search to the data
+    grid_xgb_tr_type = grid_search_tr_type.fit(X_train_tr_type_sc, y_train_tr_type)
+    
+    # Get the best score
+    print(f"the best score for train type data is {grid_xgb_tr_type.best_score_}")
+    
+    # Get the best params
+    print(f"the best parameters for the train type data are {grid_xgb_tr_type.best_params_}")
